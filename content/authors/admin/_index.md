@@ -22,12 +22,6 @@ interests:
 - Computer Vision
 - Medical Imaging
 
-# Services to show in About widget
-services:
-- Reviewer, NeurIPS 2021
-- Reviewer, ICLR 2022
-- Reviewer, ICML 2022
-
 # Education to show in About widget
 education:
   courses:
@@ -36,7 +30,7 @@ education:
     year: 
   - course: MS in Electrical Engineering
     institution: Columbia University
-    year: 2020
+    year: 2018-2020
   - course: BS in Electrical Engineering
     institution: Bucknell University
     year: 2018
@@ -73,7 +67,12 @@ social:
 highlight_name: true
 ---
 
-Chen Liu is a Senior Research Scientist at GE Healthcare.
-He is mainly working on independent deep learning research in medical imaging.
-
+Chen Liu is a machine learning researcher with broad interests.
+<br>He is mainly working on independent deep learning research in medical imaging.
+<br><br>Here is a list of his prior and ongoing services:
+<ul>
+  <li>Reviewer, ICML 2022</li>
+  <li>Reviewer, ICLR 2022</li>
+  <li>Reviewer, NeurIPS 2021</li>
+</ul>
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
