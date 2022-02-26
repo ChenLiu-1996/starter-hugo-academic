@@ -74,7 +74,7 @@ highlight_name: true
 ---
 
 Chen Liu is a Senior Research Scientist at GE Healthcare.
-(Official title: Senior Data Scientist - Deep Learning)
-He is mainly working on independent deep learning research in medical imaging.
+\n(Official title: Senior Data Scientist - Deep Learning)
+\nHe is mainly working on independent deep learning research in medical imaging.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
