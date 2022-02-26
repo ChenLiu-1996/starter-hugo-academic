@@ -27,7 +27,7 @@ experience:
     # company_url: ''
     # company_logo: org-gc
     location: California
-    date_start: '2021-08'
+    date_start: '2021-08-16'
     date_end: ''
     # description: |2-
         # Responsibilities include:
@@ -41,8 +41,8 @@ experience:
     # company_url: ''
     # company_logo: org-x
     location: California
-    date_start: '2020-01'
-    date_end: '2020-06'
+    date_start: '2020-01-04'
+    date_end: '2020-06-16'
     # description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Research Assistant
@@ -50,8 +50,8 @@ experience:
     # company_url: ''
     # company_logo: org-x
     location: New York
-    date_start: '2019-12'
-    date_end: '2020-11'
+    date_start: '2019-12-06'
+    date_end: '2020-11-29'
     # description: Taught electronic engineering and researched semiconductor physics.
 
 design:
