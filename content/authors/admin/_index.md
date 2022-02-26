@@ -67,7 +67,7 @@ social:
 highlight_name: true
 ---
 
-Chen Liu is a machine learning researcher with broad interests.
+<br><br>Chen Liu is a machine learning researcher with broad interests.
 <br>He is mainly working on independent deep learning research in medical imaging.
 <br><br>Here is a list of his prior and ongoing services:
 <ul>
