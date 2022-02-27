@@ -33,8 +33,8 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)*
-publication_short: In *ISMRM 2021*
+publication: In *Frontiers in Behavioral Neuroscience*
+publication_short: In *Frontiers in Behavioral Neuroscience*
 
 abstract: The current pilot study was designed to examine the association between hippocampal γ-aminobutyric acid (GABA+) concentration and episodic memory in older individuals, as well as the impact of two major risk factors for Alzheimer’s disease — female sex and Apolipoprotein ε4 (ApoE ε4) genotype — on this relationship.
 

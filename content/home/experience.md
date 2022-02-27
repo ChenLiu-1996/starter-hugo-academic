@@ -30,27 +30,26 @@ experience:
     date_start: '2022-07-16'
     date_end: ''
 
-- title: Staff Data Scientist - Deep Learning
-    company: GE Healthcare
-    # company_url: ''
-    # company_logo: org-gc
-    location: California
-    date_start: '2022-06-16'
-    date_end: ''
+  - title: Staff Data Scientist - Deep Learning
+      company: GE Healthcare
+      # company_url: ''
+      # company_logo: org-gc
+      location: California
+      date_start: '2022-06-16'
+      date_end: ''
 
-- title: Senior Data Scientist - Deep Learning
-    company: GE Healthcare
-    # company_url: ''
-    # company_logo: org-gc
-    location: California
-    date_start: '2021-08-16'
-    date_end: ''
-    # description: |2-
-        # Responsibilities include:
-        
-        # * Analysing
-        # * Modelling
-        # * Deploying
+  - title: Senior Data Scientist - Deep Learning
+      company: GE Healthcare
+      # company_url: ''
+      # company_logo: org-gc
+      location: California
+      date_start: '2021-08-16'
+      date_end: ''
+      # description: |2-
+          # Responsibilities include:
+          # * Analysing
+          # * Modelling
+          # * Deploying
         
   - title: Research Software Engineer
     company: Matician Inc
