@@ -1,5 +1,5 @@
 ---
-title: "In Vivo GABA Increase as a Biomarker of the Epileptogenic Zone: an Unbiased Metabolomics Approach"
+title: "Reduced Hippocampal GABA is associated with Poorer Episodic Memory in Healthy Older Women: A Pilot Study"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -21,7 +21,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-05-20T00:00:00Z"
+date: "2021-08-26T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-01T00:00:00Z"
