@@ -19,8 +19,11 @@ bio: My research interests is primarily deep learning in healthcare. I am more t
 # Interests to show in About widget
 interests:
 - Deep Learning
+  - Contrastive Learning
+  - Representation Learning
+  - Multi-task Learning
 - Computer Vision
-- Medical Imaging
+- Healthcare Impact
 
 # Education to show in About widget
 education:
@@ -67,8 +70,10 @@ social:
 highlight_name: true
 ---
 
-<br><br>Chen Liu is a machine learning researcher with broad interests.
-<br>He is mainly working on deep learning research in medical imaging.
+<br>Chen Liu is a machine learning researcher with broad yet specific interests.
+<br>In his current job and over his past research career, he mainly works on deep learning research in medical imaging.
+<br>He is also working on some aspects of contrastive learning and multi-task learning.
+<br>Ultimately, he would like to influence the healthcare domain with his expertise.
 <br><br>Here is a list of his prior and ongoing services:
 <ul>
   <li>Reviewer, ICML 2022</li>
