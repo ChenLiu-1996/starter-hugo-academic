@@ -1,24 +1,25 @@
 ---
-title: "Substituting Gadolinium In Brain MRI Using DeepContrast -- A Proof-Of-Concept Study in Mice"
+title: "JET-A Matlab Toolkit for Automated J-Difference-Edited MR Spectra Processing of In Vivo Mouse MEGA-PRESS Study at 9.4 T"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Haoran Sun
-- Xueqing Liu
-- Xinyang Feng
 - admin
+- David Jing Ma
 - Nanyan Zhu
-- Sabrina Josefina Gjerswold-Selleck
-- Hong-Jian Wei
-- Pavan Shankar Upadhyayula
-- Angeliki Mela
-- Cheng-Chia Wu
-- Peter Canoll
-- Andrew F Laine
-- John Thomas Vaughan
+- Kay Igwe
+- Jochen Weber
+- Roshell Li
+- Emily Turner Wood
+- Wafae Labriji
+- Vasile Stupar
+- Yanping Sun
+- Neil Harris
+- Antoine Depaulis
+- Florence Fauvelle
 - Scott A Small
+- Douglas L Rothman
 - Jia Guo
 
 # Author notes (optional)
@@ -26,7 +27,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-08-01T00:00:00Z"
+date: "2021-05-20T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-01T00:00:00Z"
@@ -39,12 +40,14 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)*
-publication_short: In *ISMRM 2020*
+publication_short: In *ISMRM 2021*
 
-abstract: Cerebral blood volume (CBV) is a hemodynamic correlate of oxygen metabolism and reflects brain activity and function. High-resolution CBV maps can be generated using the steady-state gadolinium-enhanced MRI technique. Recent studies suggest that the exogenous gadolinium based contrast agent (GBCA) can accumulate in the brain after frequent use. Here, we develop and optimize a deep learning algorithm, DeepContrast, which performs equally well as exogenous GBCA in mapping CBV of the normal brain tissue and enhancing glioblastoma. Together, these studies validate our hypothesis that a deep learning approach can potentially replace the need for GBCAs in brain MRI.
+abstract: Spectral editing studies in mice brains have been limited due to difficulty in spectrum processing and lack of software package analysis. However, in preclinical studies, mouse models play an important role in understanding e ects of drugs and its impact on the nervous system. JET is a fully automated software that performs raw data conversion, spectrum registration, spectral quality assessment and metabolite quanti cation of MEGA-PRESS mouse data at 9.4 T. In this work, we rst introduce the automated spectra processing pipeline of JET and further demonstrate its utilities in mouse studies.
+
 
 # Summary. An optional shortened abstract.
-summary: We develop and optimize a deep learning algorithm to produce Gd contrast in mouse brain MRI directly from a single non-contrast structural MRI.
+summary: A MATLAB-based software toolkit that I re-designed, re-developed and released with my research partner Nanyan and supervisor Dr. Jia Guo based on Dr. Guo's previous work.
+
 
 tags: []
 
@@ -54,7 +57,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Published Online (Free Download)
-  url: https://index.mirasmart.com/ISMRM2020/PDFfiles/1030.html
+  url: https://mr.research.columbia.edu/sites/default/files/content/Liu%20JET.pdf
 
 url_pdf: ''
 url_code: ''
