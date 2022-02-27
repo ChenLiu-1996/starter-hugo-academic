@@ -28,13 +28,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  # - course: PhD in Computer Science
+  # - course: Ph.D. in Computer Science
   #   institution:
   #   year:
-  - course: MS in Electrical Engineering
+  - course: M.S. in Electrical Engineering
     institution: Columbia University
     year: 2018 - 2020
-  - course: BS in Electrical Engineering
+  - course: B.S. in Electrical Engineering
     institution: Bucknell University
     year: 2014 - 2018
 
@@ -71,7 +71,7 @@ highlight_name: true
 ---
 
 <br>Chen Liu is a machine learning researcher with broad yet specific interests.
-<br>In his current job and over his past research career, he mainly works on deep learning research in medical imaging.
+<br>At his current job and over his past experience, he has been mainly working on deep learning research in medical imaging.
 <br>He is also working on some aspects of contrastive learning and multi-task learning.
 <br>Ultimately, he would like to influence the healthcare domain with his expertise.
 <br><br>Here is a list of his prior and ongoing services:
