@@ -41,7 +41,7 @@ summary: We develop and optimize a deep learning algorithm to produce Gd contras
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
