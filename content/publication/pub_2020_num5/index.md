@@ -1,5 +1,5 @@
 ---
-title: "Substituting Gadolinium In Brain MRI Using DeepContrast -- A Proof-Of-Concept Study in Mice"
+title: "In vivo γ‐aminobutyric acid increase as a biomarker of the epileptogenic zone: An unbiased metabolomics approach"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

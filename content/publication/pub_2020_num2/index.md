@@ -39,7 +39,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE 17th International Symposium on Biomedical Imaging (ISBI)*
-publication_short: In *IEEE ISBI*
+publication_short: In *IEEE ISBI 2020*
 
 abstract: Cerebral blood volume (CBV) is a hemodynamic correlate of oxygen metabolism and reflects brain activity and function. High-resolution CBV maps can be generated using the steady-state gadoliniumenhanced MRI technique. Such technique requires an intravenous injection of exogenous gadolinium based contrast agent (GBCA) and recent studies suggest that the GBCA can accumulate in the brain after frequent use. We hypothesize that endogenous sources of contrast might exist within the most conventional and commonly acquired structural MRI, potentially obviating the need for exogenous contrast. Here, we test this hypothesis by developing and optimizing a deep learning algorithm, which we call DeepContrast, in mice. We find that DeepContrast performs equally well as exogenous GBCA in mapping CBV of the normal brain tissue and enhancing glioblastoma. Together, these studies validate our hypothesis that a deep learning approach can potentially replace the need for GBCAs in brain MRI.
 
