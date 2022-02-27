@@ -36,7 +36,7 @@ experience:
         # * Modelling
         # * Deploying
 
-- title: Staff Data Scientist - Deep Learning
+  - title: Staff Data Scientist - Deep Learning
     company: GE Healthcare
     # company_url: ''
     # company_logo: org-gc
