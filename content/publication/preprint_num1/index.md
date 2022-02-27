@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning Identifies Neuroimaging Signatures of Alzheimer's Disease Using Structural and Artificial Functional MRI Data"
+title: "Segmentation with Residual Attention U-Net and an Edge-Enhancement Approach Preserves Cell Shape Features"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,10 +7,9 @@ title: "Deep Learning Identifies Neuroimaging Signatures of Alzheimer's Disease 
 authors:
 - Nanyan Zhu
 - admin
-- Sabrina Gjerswold-Selleck
-- Xinyang Feng
-- Dipika Sikka
-- Scott A Small
+- Zakary S Singer
+- Tal Danino
+- Andrew F Laine
 - Jia Guo
 
 # Author notes (optional)
@@ -18,7 +17,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2021-05-20T00:00:00Z"
+date: "2020-01-15T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-01T00:00:00Z"
@@ -27,17 +26,16 @@ publishDate: "2022-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)*
-publication_short: In *ISMRM 2021*
+publication: In *ArXiv*
+publication_short: In *ArXiv*
 
-abstract: Alzheimer's disease (AD) is a neurodegenerative disorder where functional decits precede structural deformations. Various studies have demonstrated the efficacy of deep learning in diagnosing AD using imaging data, and that functional modalities are more helpful than structural counterparts over comparable sample size. To deal with the lack of large-scale functional data in the real world, we used a structure-to-function translation network to articially generate a previously non-existent spatiallymatched functional neuroimaging dataset from existing large-scale structural data. The articial functional data, generated with little cost, complemented the authentic structural data to further improve the performance of AD classication.
-
+abstract: The ability to extrapolate gene expression dynamics in living single cells requires robust cell segmentation, and one of the challenges is the amorphous or irregularly shaped cell boundaries. To address this issue, we modified the U-Net architecture to segment cells in fluorescence widefield microscopy images and quantitatively evaluated its performance. We also proposed a novel loss function approach that emphasizes the segmentation accuracy on cell boundaries and encourages shape feature preservation. With a 97% sensitivity, 93% specificity, 91% Jaccard similarity, and 95% Dice coefficient, our proposed method called Residual Attention U-Net with edge-enhancement surpassed the state-of-the-art U-Net in segmentation performance as evaluated by the traditional metrics. More remarkably, the same proposed candidate also performed the best in terms of the preservation of valuable shape features, namely area, eccentricity, major axis length, solidity and orientation. These improvements on shape feature preservation can serve as useful assets for downstream cell tracking and quantification of changes in cell statistics or features over time.
 
 # Summary. An optional shortened abstract.
-summary: The ISMRM (extended abstract) version of the IEEE ISBI 2021 paper.
+summary: We demonstrate the addition of an edge-enhancement approach improved cell segmentation results over the baseline U-Net variant, in both traditional metrics and better preservation of cell shape features.
 
 
 tags: []
@@ -47,8 +45,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Published Online (Free Download)
-  url: https://mr.research.columbia.edu/sites/default/files/content/Zhu%20Deep%20Learning.pdf
+- name: Preprint Online (Free Download)
+  url: https://arxiv.org/pdf/2001.05548.pdf
 
 url_pdf: ''
 url_code: ''

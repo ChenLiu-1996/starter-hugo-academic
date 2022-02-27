@@ -11,7 +11,7 @@ authors:
 - Lynda P Klem
 - Korhan Buyukturkoglu
 - Andrei Irimia
-- Chen Liu
+- admin
 - Jia Guo
 - Adam M Brickman
 - Teal S Eich
@@ -30,16 +30,16 @@ publishDate: "2022-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Frontiers in Behavioral Neuroscience*
 publication_short: In *Frontiers in Behavioral Neuroscience*
 
-abstract: The current pilot study was designed to examine the association between hippocampal γ-aminobutyric acid (GABA+) concentration and episodic memory in older individuals, as well as the impact of two major risk factors for Alzheimer’s disease — female sex and Apolipoprotein ε4 (ApoE ε4) genotype — on this relationship.
+abstract: The current pilot study was designed to examine the association between hippocampal γ-aminobutyric acid (GABA+) concentration and episodic memory in older individuals, as well as the impact of two major risk factors for Alzheimer's disease — female sex and Apolipoprotein ε4 (ApoE ε4) genotype — on this relationship.
 
 # Summary. An optional shortened abstract.
-summary: This is a paper describing another scientific research that is largely helped by JET..
+summary: This is a paper describing another scientific research that is largely helped by JET.
 
 
 tags: []

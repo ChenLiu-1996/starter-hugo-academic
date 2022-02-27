@@ -1,16 +1,26 @@
 ---
-title: "Deep Learning Identifies Neuroimaging Signatures of Alzheimer's Disease Using Structural and Artificial Functional MRI Data"
+title: "Deep Learning Substitutes Gadolinium in Detecting Functional and Structural Brain Lesions with MRI"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Nanyan Zhu
 - admin
-- Sabrina Gjerswold-Selleck
-- Xinyang Feng
+- Nanyan Zhu
 - Dipika Sikka
-- Scott A Small
+- Xinyang Feng
+- Haoran Sun
+- Xueqing Liu
+- Sabrina Gjerswold-Selleck
+- Hong-Jian Wei
+- Pavan Upadhyayula
+- Angeliki Mela
+- Peter Canoll
+- Cheng-Chia Wu
+- Andrew Laine
+- Jeffrey Lieberman
+- Frank Provenzano
+- Scott Small
 - Jia Guo
 
 # Author notes (optional)
@@ -18,7 +28,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2021-05-20T00:00:00Z"
+date: "2020-08-26T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-01T00:00:00Z"
@@ -27,28 +37,26 @@ publishDate: "2022-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)*
-publication_short: In *ISMRM 2021*
+publication: In *Nature Research Preprint Server*
+publication_short: In *Nature Research Preprint Server*
 
-abstract: Alzheimer's disease (AD) is a neurodegenerative disorder where functional decits precede structural deformations. Various studies have demonstrated the efficacy of deep learning in diagnosing AD using imaging data, and that functional modalities are more helpful than structural counterparts over comparable sample size. To deal with the lack of large-scale functional data in the real world, we used a structure-to-function translation network to articially generate a previously non-existent spatiallymatched functional neuroimaging dataset from existing large-scale structural data. The articial functional data, generated with little cost, complemented the authentic structural data to further improve the performance of AD classication.
-
+abstract: While MRI contrast agents such as those based on Gadolinium are needed to enhance the detection of structural and functional brain lesions, there are rising concerns over their safety. Here, we hypothesize that a deep learning model, trained using quantitative steady-state contrast-enhanced MRI datasets in mice and humans, could generate contrast-equivalent information from a single non-contrast MRI scan. The model was first trained, optimized, and validated in mice. It was then transferred and adapted to human data, and we find that it can substitute Gadolinium-based contrast agents for detecting functional lesions caused by aging, Schizophrenia, or Alzheimer's disease, and, 8 for enhancing structural lesions caused by brain or breast tumors. Since derived from a 9 commonly-acquired MRI, this framework has the potential for broad clinical utility and 10 can be applied retrospectively to research scans across a host of diseases.
 
 # Summary. An optional shortened abstract.
-summary: The ISMRM (extended abstract) version of the IEEE ISBI 2021 paper.
-
+summary: We develop and optimize a deep learning algorithm to produce Gd contrast in mouse and human brain MRI directly from a single non-contrast structural MRI. We show sensible prediction results by quantitatively comparing not only the contrast images but also the downstream scientific findings with the ground truths on two species, eight studies, and various levels of brain disorders.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Published Online (Free Download)
-  url: https://mr.research.columbia.edu/sites/default/files/content/Zhu%20Deep%20Learning.pdf
+- name: Preprint Online (Free Download)
+  url: https://assets.researchsquare.com/files/rs-56518/v1_covered.pdf?c=1631839900
 
 url_pdf: ''
 url_code: ''

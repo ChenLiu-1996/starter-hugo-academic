@@ -22,22 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Staff2 Data Scientist - Deep Learning
-    company: GE Healthcare
-    # company_url: ''
-    # company_logo: org-gc
-    location: California
-    date_start: '2022-07-16'
-    date_end: ''
-
-  - title: Staff Data Scientist - Deep Learning
-    company: GE Healthcare
-    # company_url: ''
-    # company_logo: org-gc
-    location: California
-    date_start: '2022-06-16'
-    date_end: ''
-
   - title: Senior Data Scientist - Deep Learning
     company: GE Healthcare
     # company_url: ''
@@ -58,7 +42,6 @@ experience:
     location: California
     date_start: '2020-01-04'
     date_end: '2020-06-16'
-    # description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Research Assistant
     company: Columbia University (Medical Center)
@@ -67,7 +50,15 @@ experience:
     location: New York
     date_start: '2019-12-06'
     date_end: '2020-11-29'
-    # description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Student Researcher
+    company: Columbia University (Medical Center)
+    # company_url: ''
+    # company_logo: org-x
+    location: New York
+    date_start: '2019-01-01'
+    date_end: '2029-12-05'
+
 
 design:
   columns: '2'
