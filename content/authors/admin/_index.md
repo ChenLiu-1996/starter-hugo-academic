@@ -18,10 +18,9 @@ bio: My research interests is primarily deep learning in healthcare. I am more t
 
 # Interests to show in About widget
 interests:
-- Deep Learning
-  - Contrastive Learning
-  - Representation Learning
-  - Multi-task Learning
+- Contrastive Learning
+- Representation Learning
+- Multi-task Learning
 - Computer Vision
 - Healthcare Impact
 
