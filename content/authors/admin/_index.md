@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Science
-    institution: 
-    year: 
+  # - course: PhD in Computer Science
+  #   institution:
+  #   year:
   - course: MS in Electrical Engineering
     institution: Columbia University
-    year: 2018-2020
+    year: 2018 - 2020
   - course: BS in Electrical Engineering
     institution: Bucknell University
-    year: 2018
+    year: 2014 - 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

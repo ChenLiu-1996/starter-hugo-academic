@@ -1,26 +1,19 @@
 ---
-title: "JET-A Matlab Toolkit for Automated J-Difference-Edited MR Spectra Processing of In Vivo Mouse MEGA-PRESS Study at 9.4 T"
+title: "In Vivo GABA Increase as a Biomarker of the Epileptogenic Zone: an Unbiased Metabolomics Approach"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- David Jing Ma
-- Nanyan Zhu
-- Kay Igwe
-- Jochen Weber
-- Roshell Li
-- Emily Turner Wood
-- Wafae Labriji
-- Vasile Stupar
-- Yanping Sun
-- Neil Harris
-- Antoine Depaulis
 - Florence Fauvelle
-- Scott A Small
-- Douglas L Rothman
+- Vasile Stupar
 - Jia Guo
+- Wafae Labriji
+- admin
+- Alicia Plaindoux
+- Emmanuel Luc Barbier
+- Sophie Hamelin
+- Antoine Depaulis
 
 # Author notes (optional)
 # author_notes:
@@ -39,14 +32,13 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)* **Oral Presentation**
-publication_short: In *ISMRM 2021* **Oral Presentation**
+publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)*
+publication_short: In *ISMRM 2021*
 
-abstract: Spectral editing studies in mice brains have been limited due to difficulty in spectrum processing and lack of software package analysis. However, in preclinical studies, mouse models play an important role in understanding e ects of drugs and its impact on the nervous system. JET is a fully automated software that performs raw data conversion, spectrum registration, spectral quality assessment and metabolite quanti cation of MEGA-PRESS mouse data at 9.4 T. In this work, we rst introduce the automated spectra processing pipeline of JET and further demonstrate its utilities in mouse studies.
-
+abstract: New non invasive methods are required to better delimit the epileptogenic zone (EZ) during the pre-surgical exam of epileptic patients. By combining ex vivo NMR spectroscopy-based (MRS) untargeted metabolomics and in vivo MRS-based targeted metabolomics, we found that GABA was the most discriminant metabolite of the epileptogenic zone vs adjacent brain regions in a mouse model of mesio-temporal lobe epilepsy (MTLE). GABA appears therefore as a specic in vivo biomarker of EZ in MTLE.
 
 # Summary. An optional shortened abstract.
-summary: A MATLAB-based software toolkit that I re-designed, re-developed and released with my research partner Nanyan and supervisor Dr. Jia Guo based on Dr. Guo's previous work.
+summary: The ISMRM (extended abstract) version of the Epilepsia 2020 paper.
 
 
 tags: []
@@ -57,7 +49,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Published Online (Free Download)
-  url: https://mr.research.columbia.edu/sites/default/files/content/Liu%20JET.pdf
+  url: https://mr.research.columbia.edu/sites/default/files/content/Fauvelle%20In%20vivo%20GABA.pdf
 
 url_pdf: ''
 url_code: ''
