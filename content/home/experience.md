@@ -51,14 +51,6 @@ experience:
     date_start: '2019-12-06'
     date_end: '2020-11-29'
 
-  - title: Student Researcher
-    company: Columbia University (Medical Center)
-    # company_url: ''
-    # company_logo: org-x
-    location: New York
-    date_start: '2019-01-01'
-    date_end: '2029-12-05'
-
 
 design:
   columns: '2'
