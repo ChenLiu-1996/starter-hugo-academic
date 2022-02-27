@@ -35,6 +35,14 @@ experience:
         # * Analysing
         # * Modelling
         # * Deploying
+
+- title: Staff Data Scientist - Deep Learning
+    company: GE Healthcare
+    # company_url: ''
+    # company_logo: org-gc
+    location: California
+    date_start: '2022-06-16'
+    date_end: ''
         
   - title: Research Software Engineer
     company: Matician Inc
