@@ -53,7 +53,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Published Online (Paid Access)
+- name: Published Online (Paid Download)
   url: https://ieeexplore.ieee.org/abstract/document/9098323
 - name: Arxiv Preprint
   url: https://arxiv.org/pdf/2001.05551.pdf

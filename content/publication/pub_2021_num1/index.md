@@ -47,7 +47,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Published Online (Paid Access)
+- name: Published Online (Paid Download)
   url: https://ieeexplore.ieee.org/abstract/document/9433808/
 - name: Arxiv Preprint
   url: https://arxiv.org/pdf/2104.04672.pdf
