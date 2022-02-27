@@ -1,24 +1,28 @@
 ---
-title: "Substituting Gadolinium In Human Brain MRI Using DeepContrast"
+title: "Substituting Gadolinium In Brain MRI Using DeepContrast -- A Proof-Of-Concept Study in Mice"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Nanyan Zhu
-- Xinyang Feng
-- Frank A Provenzano
-- John T Vaughan
-- Scott A Small
+- Sophie Hamelin
+- Vasile Stupar
+- Lucile Mazière
 - Jia Guo
+- Wafae Labriji
+- admin
+- Ludiwine Bretagnolle
+- Sandrine Parrot
+- Emmanuel L Barbier
+- Antoine Depaulis
+- Florence Fauvelle
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2020-08-01T00:00:00Z"
+date: "2020-12-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-01T00:00:00Z"
@@ -27,26 +31,26 @@ publishDate: "2022-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)*
-publication_short: In *ISMRM*
+publication: In *Epilepsia*
+publication_short: In *Epilepsia*
 
-abstract: MRI estimation of cerebral blood volume (CBV) is useful in mapping potential brain function. To obtain high-resolution CBV maps, it typically requires intravenous (IV) injections of Gadolinium-based contrast agents (GBCAs), the use of which has come under new scrutiny. Here, we design and implement a deep learning algorithm, DeepContrast, to estimate GBCA contrast directly from T1-weighted (T1W) structural MRI. The predicted contrast performs equally well as the GBCA-enhanced CBV map even in mapping subtle age-related functional changes in the human brain. Therefore, our study demonstrates the feasibility of substituting GBCA in human brain MRI using DeepContrast.
+abstract: Following surgery, focal seizures relapse in 20% to 50% of cases due to the difficulty of delimiting the epileptogenic zone (EZ) by current imaging or electrophysiological techniques. Here, we evaluate an unbiased metabolomics approach based on ex vivo and in vivo nuclear magnetic resonance spectroscopy (MRS) methods to discriminate the EZ in a mouse model of mesiotemporal lobe epilepsy (MTLE).
 
 # Summary. An optional shortened abstract.
-summary: We develop and optimize a deep learning algorithm to produce Gd contrast in human brain MRI directly from a single non-contrast structural MRI, and demonstrate the predicted contrast is reasonable by showing its regional vulnerability pattern to aging over the entire cortex is highly similar to the ground truth patterns.
+summary: This is a paper describing a scientific research that is largely helped by JET.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
 - name: Published Online (Free Download)
-  url: https://index.mirasmart.com/ISMRM2020/PDFfiles/1031.html
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/epi.16768
 
 url_pdf: ''
 url_code: ''

@@ -1,28 +1,32 @@
 ---
-title: "Enabling Translational Research on Integrated and Closed-Loop Medical Systems Using an Open-Source Approach"
+title: "Substituting Gadolinium In Brain MRI Using DeepContrast -- A Proof-Of-Concept Study in Mice"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Philip Asare
-- Yunyingying Xu
-- admin
-- Win Kyaw
-- Dikendra Karki
-- Yash Mittal
-- Farooq Gessa
-- Adit Acharya
-- Mateen Qureshi
-- Mark S. Poler
+- Haoran Sun
+- Xueqing Liu
+- Xinyang Feng
+- Chen Liu
+- Nanyan Zhu
+- Sabrina Josefina Gjerswold-Selleck
+- Hong-Jian Wei
+- Pavan Shankar Upadhyayula
+- Angeliki Mela
+- Cheng-Chia Wu
+- Peter Canoll
+- Andrew F Laine
+- John Thomas Vaughan
+- Scott A Small
+- Jia Guo
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2018-01-01T00:00:00Z"
-doi: ""
+date: "2020-08-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-01T00:00:00Z"
@@ -34,13 +38,13 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE 40th Annual International Conference of Engineering in Medicine and Biology Society (EMBC)*
-publication_short: In *IEEE EMBC*
+publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)*
+publication_short: In *ISMRM*
 
-abstract: This paper briefly describes an open-source research prototype to enable translational research on integrated and closed-loop medical systems. It is designed with focus on building an active developer and user community.
+abstract: Cerebral blood volume (CBV) is a hemodynamic correlate of oxygen metabolism and reflects brain activity and function. High-resolution CBV maps can be generated using the steady-state gadolinium-enhanced MRI technique. Recent studies suggest that the exogenous gadolinium based contrast agent (GBCA) can accumulate in the brain after frequent use. Here, we develop and optimize a deep learning algorithm, DeepContrast, which performs equally well as exogenous GBCA in mapping CBV of the normal brain tissue and enhancing glioblastoma. Together, these studies validate our hypothesis that a deep learning approach can potentially replace the need for GBCAs in brain MRI.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We develop and optimize a deep learning algorithm to produce Gd contrast in mouse brain MRI directly from a single non-contrast structural MRI.
 
 tags: []
 
@@ -48,9 +52,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Published Online (Free Download)
+  url: https://index.mirasmart.com/ISMRM2020/PDFfiles/1030.html
 
 url_pdf: ''
 url_code: ''

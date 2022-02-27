@@ -1,5 +1,5 @@
 ---
-title: "Substituting gadolinium in brain MRI using DeepContrast"
+title: "Substituting Gadolinium in Brain MRI Using DeepContrast"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -53,7 +53,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Official Publication (paid access)
+- name: Published Online (Paid Access)
   url: https://ieeexplore.ieee.org/abstract/document/9098323
 - name: Arxiv Preprint
   url: https://arxiv.org/pdf/2001.05551.pdf
