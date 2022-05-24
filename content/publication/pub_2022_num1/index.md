@@ -7,9 +7,10 @@ title: "Segmentation with Residual Attention U-Net and an Edge-Enhancement Appro
 authors:
 - Nanyan Zhu
 - admin
+- Britney Forsyth
 - Zakary S Singer
-- Tal Danino
 - Andrew F Laine
+- Tal Danino
 - Jia Guo
 
 # Author notes (optional)
@@ -17,7 +18,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2020-01-15T00:00:00Z"
+date: "2022-05-10T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-01T00:00:00Z"
@@ -26,11 +27,11 @@ publishDate: "2022-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ArXiv*
-publication_short: In *ArXiv*
+publication: In *International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*
+publication_short: In *IEEE EMBC*
 
 abstract: The ability to extrapolate gene expression dynamics in living single cells requires robust cell segmentation, and one of the challenges is the amorphous or irregularly shaped cell boundaries. To address this issue, we modified the U-Net architecture to segment cells in fluorescence widefield microscopy images and quantitatively evaluated its performance. We also proposed a novel loss function approach that emphasizes the segmentation accuracy on cell boundaries and encourages shape feature preservation. With a 97% sensitivity, 93% specificity, 91% Jaccard similarity, and 95% Dice coefficient, our proposed method called Residual Attention U-Net with edge-enhancement surpassed the state-of-the-art U-Net in segmentation performance as evaluated by the traditional metrics. More remarkably, the same proposed candidate also performed the best in terms of the preservation of valuable shape features, namely area, eccentricity, major axis length, solidity and orientation. These improvements on shape feature preservation can serve as useful assets for downstream cell tracking and quantification of changes in cell statistics or features over time.
 
