@@ -1,19 +1,23 @@
 ---
-title: "Adversarial Focal Loss: Asking Your Discriminator for Hard Examples"
+title: "Segmentation with Residual Attention U-Net and an Edge-Enhancement Approach Preserves Cell Shape Features"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Nanyan Zhu
 - admin
-- Anonymous
+- Zakary S Singer
+- Tal Danino
+- Andrew F Laine
+- Jia Guo
 
 # Author notes (optional)
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
-date: "2022-05-19T00:00:00Z"
+date: "2020-01-15T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-01T00:00:00Z"
@@ -25,24 +29,24 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Under Review
-publication_short: Under Review
+publication: In *ArXiv*
+publication_short: In *ArXiv*
 
-abstract: Focal Loss has reached incredible popularity as it uses a simple technique to identify and utilize hard examples to achieve better performance on classification. However, this method does not easily generalize outside of classification tasks, such as in keypoint detection. In this paper, we propose a novel adaptation of Focal Loss for keypoint detection tasks, called Adversarial Focal Loss (AFL). AFL not only is semantically analogous to Focal loss, but also works as a plug-and-chug upgrade for arbitrary loss functions. While Focal Loss requires output from a classifier, AFL leverages a separate adversarial network to produce a difficulty score for each input. This difficulty score can then be used to dynamically prioritize learning on hard examples, even in absence of a classifier. In this work, we show AFL's effectiveness in enhancing existing methods in keypoint detection and verify its capability to re-weigh examples based on difficulty.
+abstract: The ability to extrapolate gene expression dynamics in living single cells requires robust cell segmentation, and one of the challenges is the amorphous or irregularly shaped cell boundaries. To address this issue, we modified the U-Net architecture to segment cells in fluorescence widefield microscopy images and quantitatively evaluated its performance. We also proposed a novel loss function approach that emphasizes the segmentation accuracy on cell boundaries and encourages shape feature preservation. With a 97% sensitivity, 93% specificity, 91% Jaccard similarity, and 95% Dice coefficient, our proposed method called Residual Attention U-Net with edge-enhancement surpassed the state-of-the-art U-Net in segmentation performance as evaluated by the traditional metrics. More remarkably, the same proposed candidate also performed the best in terms of the preservation of valuable shape features, namely area, eccentricity, major axis length, solidity and orientation. These improvements on shape feature preservation can serve as useful assets for downstream cell tracking and quantification of changes in cell statistics or features over time.
 
 # Summary. An optional shortened abstract.
-summary: We proposed a generalizable adaptation of Focal Loss to keypoint detection leveraging difficulty scores from a discriminator.
+summary: We demonstrate the addition of an edge-enhancement approach improved cell segmentation results over the baseline U-Net variant, in both traditional metrics and better preservation of cell shape features.
 
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Preprint temporaily placed on GitHub
-  url: https://github.com/ChenRaphaelLiu/AdversarialFocalLoss/blob/main/paper/AFL_20220519.pdf
+- name: Preprint Online (Free Download)
+  url: https://arxiv.org/pdf/2001.05548.pdf
 
 url_pdf: ''
 url_code: ''

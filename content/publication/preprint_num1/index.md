@@ -1,15 +1,26 @@
 ---
-title: "Segmentation with Residual Attention U-Net and an Edge-Enhancement Approach Preserves Cell Shape Features"
+title: "Deep Learning Substitutes Gadolinium in Detecting Functional and Structural Brain Lesions with MRI"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Nanyan Zhu
 - admin
-- Zakary S Singer
-- Tal Danino
-- Andrew F Laine
+- Nanyan Zhu
+- Dipika Sikka
+- Xinyang Feng
+- Haoran Sun
+- Xueqing Liu
+- Sabrina Gjerswold-Selleck
+- Hong-Jian Wei
+- Pavan Upadhyayula
+- Angeliki Mela
+- Peter Canoll
+- Cheng-Chia Wu
+- Andrew Laine
+- Jeffrey Lieberman
+- Frank Provenzano
+- Scott Small
 - Jia Guo
 
 # Author notes (optional)
@@ -17,7 +28,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2020-01-15T00:00:00Z"
+date: "2020-08-26T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-01T00:00:00Z"
@@ -29,24 +40,23 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ArXiv*
-publication_short: In *ArXiv*
+publication: In *Nature Research Preprint Server*
+publication_short: In *Nature Research Preprint Server*
 
-abstract: The ability to extrapolate gene expression dynamics in living single cells requires robust cell segmentation, and one of the challenges is the amorphous or irregularly shaped cell boundaries. To address this issue, we modified the U-Net architecture to segment cells in fluorescence widefield microscopy images and quantitatively evaluated its performance. We also proposed a novel loss function approach that emphasizes the segmentation accuracy on cell boundaries and encourages shape feature preservation. With a 97% sensitivity, 93% specificity, 91% Jaccard similarity, and 95% Dice coefficient, our proposed method called Residual Attention U-Net with edge-enhancement surpassed the state-of-the-art U-Net in segmentation performance as evaluated by the traditional metrics. More remarkably, the same proposed candidate also performed the best in terms of the preservation of valuable shape features, namely area, eccentricity, major axis length, solidity and orientation. These improvements on shape feature preservation can serve as useful assets for downstream cell tracking and quantification of changes in cell statistics or features over time.
+abstract: While MRI contrast agents such as those based on Gadolinium are needed to enhance the detection of structural and functional brain lesions, there are rising concerns over their safety. Here, we hypothesize that a deep learning model, trained using quantitative steady-state contrast-enhanced MRI datasets in mice and humans, could generate contrast-equivalent information from a single non-contrast MRI scan. The model was first trained, optimized, and validated in mice. It was then transferred and adapted to human data, and we find that it can substitute Gadolinium-based contrast agents for detecting functional lesions caused by aging, Schizophrenia, or Alzheimer's disease, and, 8 for enhancing structural lesions caused by brain or breast tumors. Since derived from a 9 commonly-acquired MRI, this framework has the potential for broad clinical utility and 10 can be applied retrospectively to research scans across a host of diseases.
 
 # Summary. An optional shortened abstract.
-summary: We demonstrate the addition of an edge-enhancement approach improved cell segmentation results over the baseline U-Net variant, in both traditional metrics and better preservation of cell shape features.
-
+summary: We develop and optimize a deep learning algorithm to produce Gd contrast in mouse and human brain MRI directly from a single non-contrast structural MRI. We show sensible prediction results by quantitatively comparing not only the contrast images but also the downstream scientific findings with the ground truths on two species, eight studies, and various levels of brain disorders.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 links:
 - name: Preprint Online (Free Download)
-  url: https://arxiv.org/pdf/2001.05548.pdf
+  url: https://assets.researchsquare.com/files/rs-56518/v1_covered.pdf?c=1631839900
 
 url_pdf: ''
 url_code: ''
