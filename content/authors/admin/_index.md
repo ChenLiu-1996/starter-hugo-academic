@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  # - course: Ph.D. in Computer Science
-  #   institution:
-  #   year:
+  - course: Ph.D. in Computer Science
+    institution:
+    year: 2022 -
   - course: M.S. in Electrical Engineering
     institution: Columbia University
     year: 2018 - 2020
@@ -67,11 +67,12 @@ social:
 highlight_name: true
 ---
 
-<br>Hi, my name is Chen Liu. I am a machine learning researcher with broad interests.
-<br>At my current job and over my past experience,
+<br> Hi, my name is Chen Liu.
+<br> I am a machine learning researcher with broad interests.
+<br> At my current job and over my past experience,
 <br> I have been primarily working on deep learning research in medical imaging.
-<br>Ultimately, I would like to influence the healthcare domain with my expertise.
-<br><br>Here is a list of my prior and ongoing services:
+<br> Ultimately, I would like to influence the healthcare domain with my expertise.
+<br><br> Here is a list of my prior and ongoing services:
 <ul>
   <li>Reviewer, ICML 2022</li>
   <li>Reviewer, ICLR 2022</li>
