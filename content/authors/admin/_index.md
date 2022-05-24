@@ -14,15 +14,13 @@ organizations:
   url: https://www.gehealthcare.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests is primarily deep learning in healthcare. I am more towards the methodology side than the application side.
+bio: I am a Research Scientist primarily working on machine learning in healthcare.
 
 # Interests to show in About widget
 interests:
-- Contrastive Learning
-- Representation Learning
-- Multi-task Learning
 - Computer Vision
-- Healthcare Impact
+- Representation Learning
+- Machine Learning in Healthcare
 
 # Education to show in About widget
 education:
@@ -69,14 +67,13 @@ social:
 highlight_name: true
 ---
 
-<br>Chen Liu is a machine learning researcher with broad yet specific interests.
+<br>Chen Liu is a machine learning researcher with broad interests.
 <br>At his current job and over his past experience, he has been mainly working on deep learning research in medical imaging.
-<br>He is also working on some aspects of contrastive learning and multi-task learning.
 <br>Ultimately, he would like to influence the healthcare domain with his expertise.
 <br><br>Here is a list of his prior and ongoing services:
 <ul>
   <li>Reviewer, ICML 2022</li>
   <li>Reviewer, ICLR 2022</li>
-  <li>Reviewer, NeurIPS 2021</li>
+  <li>Reviewer, NeurIPS 2021-2022</li>
 </ul>
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
