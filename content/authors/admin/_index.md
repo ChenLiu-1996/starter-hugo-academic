@@ -67,10 +67,11 @@ social:
 highlight_name: true
 ---
 
-<br>Chen Liu is a machine learning researcher with broad interests.
-<br>At his current job and over his past experience, he has been mainly working on deep learning research in medical imaging.
-<br>Ultimately, he would like to influence the healthcare domain with his expertise.
-<br><br>Here is a list of his prior and ongoing services:
+<br>Hi, my name is Chen Liu. I am a machine learning researcher with broad interests.
+<br>At my current job and over my past experience,
+<br> I have been primarily working on deep learning research in medical imaging.
+<br>Ultimately, I would like to influence the healthcare domain with my expertise.
+<br><br>Here is a list of my prior and ongoing services:
 <ul>
   <li>Reviewer, ICML 2022</li>
   <li>Reviewer, ICLR 2022</li>
