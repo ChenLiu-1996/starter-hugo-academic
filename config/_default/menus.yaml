@@ -10,15 +10,15 @@ main:
   - name: Awards and Recognitions
     url: '#award'
     weight: 20
-  - name: Service
-    url: '#service'
-    weight: 30
   - name: Experience
     url: '#experience'
+    weight: 30
+  - name: Service
+    url: '#service'
     weight: 40
   - name: Publications
-    url: '#publications'
-    weight: 60
+    url: '#featured'
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 70
