@@ -72,10 +72,4 @@ highlight_name: true
 <br> At my current job and over my past experience,
 <br> I have been primarily working on deep learning research in healthcare.
 <br> Ultimately, I would like to influence the healthcare domain with my expertise.
-<br><br> Here is a list of my prior and ongoing services:
-<ul>
-  <li>Reviewer, ICML 2022</li>
-  <li>Reviewer, ICLR 2022</li>
-  <li>Reviewer, NeurIPS 2021-2022</li>
-</ul>
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
