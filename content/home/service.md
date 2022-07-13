@@ -24,7 +24,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2021-04-27"
-  description: "Reviewer at NeurIPS 2021, 2022."
+  description: "Served at NeurIPS 2021, 2022."
   organization: Neural Information Processing Systems (NeurIPS)
   organization_url: https://nips.cc/
   title: Reviewer at NeurIPS
@@ -32,7 +32,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2021-06-13"
-  description: "Reviewer at ICLR 2022."
+  description: "Served at ICLR 2022."
   organization: International Conference on Learning Representations (ICLR)
   organization_url: https://iclr.cc/
   title: Reviewer at ICLR
@@ -40,7 +40,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2022-01-05"
-  description: "Reviewer at ICML 2022."
+  description: "Served at ICML 2022."
   organization: International Conference on Machine Learning (ICML)
   organization_url: https://icml.cc/
   title: Reviewer at ICML
