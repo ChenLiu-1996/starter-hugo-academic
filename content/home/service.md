@@ -1,7 +1,6 @@
 ---
-# An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: accomplishments
 
 # This file represents a page section.
 headless: true
@@ -12,30 +11,41 @@ weight: 30
 title: 'Professional Service'
 subtitle:
 
-content:
-  # Page type to display. E.g. post, event, publication...
-  page_type: event
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 5
-  # Filter on criteria
-  filters:
-    author: ""
-    category: ""
-    tag: ""
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-    publication_type: ""
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
+
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+item:
+- certificate_url: ""
+  date_end: ""
+  date_start: "2021-04-27"
+  description: "Reviewer at NeurIPS 2021, 2022."
+  organization: Neural Information Processing Systems (NeurIPS)
+  organization_url: https://nips.cc/
+  title: Reviewer at NeurIPS
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2021-06-13"
+  description: "Reviewer at ICLR 2022."
+  organization: International Conference on Learning Representations (ICLR)
+  organization_url: https://iclr.cc/
+  title: Reviewer at ICLR
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2022-01-05"
+  description: "Reviewer at ICML 2022."
+  organization: International Conference on Machine Learning (ICML)
+  organization_url: https://icml.cc/
+  title: Reviewer at ICML
+  url: ""
 
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 2
+  columns: '2' 
 ---
