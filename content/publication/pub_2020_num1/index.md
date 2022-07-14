@@ -76,6 +76,10 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
+
+# Almetric and Dimension badges
+add_badge: true
+
 ---
 
 <!-- {{% callout note %}}
@@ -108,7 +112,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
         <span style="float:left"; 
           class="__dimensions_badge_embed__" 
-          data-doi="10.XXXXXX" 
+          data-doi="10.1016/j.evolhumbehav.2014.06.008" 
           data-hide-zero-citations="true" 
           data-legend="always">
         </span>
@@ -117,7 +121,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
           data-link-target="_blank" 
           data-badge-details="right" 
           data-badge-type="medium-donut"
-          data-doi="10.XXXXXX"   
+          data-doi="10.1016/j.evolhumbehav.2014.06.008"   
           data-condensed="true" 
           data-hide-no-mentions="true" 
           class="altmetric-embed">
@@ -125,7 +129,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
     </div>
     <div id="inner">
       <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.XXXXXX" 
+        <a href="https://plu.mx/plum/a/?doi=10.1016/j.evolhumbehav.2014.06.008" 
           data-orientation="horizontal" 
           class="plumx-summary" 
           data-site="plum" 
