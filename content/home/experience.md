@@ -46,7 +46,7 @@ experience:
   - title: Research Assistant
     company: Columbia University (Medical Center)
     company_url: 'https://www.columbia.edu'
-    # company_logo: org-x
+    company_logo: org-columbia
     location: New York
     date_start: '2019-12-06'
     date_end: '2020-11-29'
