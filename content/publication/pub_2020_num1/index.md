@@ -113,7 +113,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
         <span style="float:left"; 
           class="__dimensions_badge_embed__" 
           data-doi="10.3390/en13061322" 
-          data-hide-zero-citations="true" 
+          data-hide-zero-citations="false" 
           data-legend="always">
         </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -123,7 +123,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
           data-badge-type="medium-donut"
           data-doi="10.3390/en13061322"   
           data-condensed="true" 
-          data-hide-no-mentions="true" 
+          data-hide-no-mentions="false" 
           class="altmetric-embed">
         </div>
     </div>
@@ -133,7 +133,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
           data-orientation="horizontal" 
           class="plumx-summary" 
           data-site="plum" 
-          data-hide-when-empty="true">
+          data-hide-when-empty="false">
         </a>
     </div>
   </section>
