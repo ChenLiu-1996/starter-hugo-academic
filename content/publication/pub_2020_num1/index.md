@@ -16,7 +16,6 @@ authors:
 # - "Equal contribution"
 
 date: "2020-03-12T00:00:00Z"
-doi: "10.3390/en13061322"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-01T00:00:00Z"
