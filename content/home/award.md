@@ -24,7 +24,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2022-07-13"
-  description: "Among top 10% of reviewers at ICML 2022. <br>Invited as an ICML 2022 Session Chair (but unable to accept due to travel conflits)."
+  description: "Among top 10% of reviewers at ICML 2022. <br>Invited as an ICML 2022 Session Chair." #(but unable to accept due to travel conflits)
   organization: International Conference on Machine Learning (ICML)
   organization_url: https://icml.cc/
   title: Outstanding Reviewer at ICML 2022
