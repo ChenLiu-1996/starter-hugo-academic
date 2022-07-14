@@ -25,7 +25,7 @@ experience:
   - title: Senior Data Scientist - Deep Learning
     company: GE Healthcare
     company_url: 'https://www.gehealthcare.com/'
-    # company_logo: org-GEHC
+    company_logo: org-GEHC
     location: California
     date_start: '2021-08-16'
     date_end: ''
