@@ -30,6 +30,7 @@ education:
     year: 2022 -
   - course: M.S. in Electrical Engineering
     institution: Columbia University
+    logo: org-columbia
     year: 2018 - 2020
   - course: B.S. in Electrical Engineering
     institution: Bucknell University
