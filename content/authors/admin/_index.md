@@ -46,6 +46,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=3rDjnykAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://https://orcid.org/0000-0001-5416-8464
 - icon: github
   icon_pack: fab
   link: https://github.com/ChenRaphaelLiu
