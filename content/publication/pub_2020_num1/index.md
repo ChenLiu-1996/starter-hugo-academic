@@ -16,7 +16,7 @@ authors:
 # - "Equal contribution"
 
 date: "2020-03-12T00:00:00Z"
-# doi: "10.3390/en13061322"
+doi: "10.3390/en13061322"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-01T00:00:00Z"
@@ -112,7 +112,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
         <span style="float:left"; 
           class="__dimensions_badge_embed__" 
-          data-doi="10.1016/j.evolhumbehav.2014.06.008" 
+          data-doi="10.3390/en13061322" 
           data-hide-zero-citations="true" 
           data-legend="always">
         </span>
@@ -121,7 +121,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
           data-link-target="_blank" 
           data-badge-details="right" 
           data-badge-type="medium-donut"
-          data-doi="10.1016/j.evolhumbehav.2014.06.008"   
+          data-doi="10.3390/en13061322"   
           data-condensed="true" 
           data-hide-no-mentions="true" 
           class="altmetric-embed">
@@ -129,7 +129,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
     </div>
     <div id="inner">
       <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.1016/j.evolhumbehav.2014.06.008" 
+        <a href="https://plu.mx/plum/a/?doi=10.3390/en13061322"
           data-orientation="horizontal" 
           class="plumx-summary" 
           data-site="plum" 
