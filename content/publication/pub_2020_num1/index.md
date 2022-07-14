@@ -78,7 +78,7 @@ image:
 # slides: example
 
 # Almetric and Dimension badges
-add_badge: true
+# add_badge: true
 
 ---
 
