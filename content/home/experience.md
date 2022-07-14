@@ -37,15 +37,15 @@ experience:
         
   - title: Research Software Engineer
     company: Matician Inc
-    # company_url: ''
-    # company_logo: org-x
+    company_url: 'https://www.matician.com'
+    company_logo: org-matician
     location: California
     date_start: '2020-01-04'
     date_end: '2020-06-16'
 
   - title: Research Assistant
     company: Columbia University (Medical Center)
-    # company_url: ''
+    company_url: 'https://www.columbia.edu'
     # company_logo: org-x
     location: New York
     date_start: '2019-12-06'
