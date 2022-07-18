@@ -50,4 +50,7 @@ design:
   columns: '2' 
 ---
 
-Served as a reviewer at <a href="https://nips.cc/">NeurIPS</a> 2021, 2022; <a href="https://iclr.cc/">ICLR 2022</a>; <a href="https://icml.cc/">ICML</a> 2022.
+Served as a reviewer at
+- <a href="https://nips.cc/">NeurIPS</a> 2021, 2022
+- <a href="https://iclr.cc/">ICLR 2022</a>
+- <a href="https://icml.cc/">ICML</a> 2022.
