@@ -41,7 +41,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Preprint temporaily placed on GitHub
+- name: Preprint Online (Free Download)
   url: https://arxiv.org/pdf/2207.07739.pdf
 
 url_pdf: ''
