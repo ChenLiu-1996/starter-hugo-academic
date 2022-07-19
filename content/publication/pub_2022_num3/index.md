@@ -42,7 +42,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Preprint temporaily placed on GitHub
-  url: https://github.com/ChenRaphaelLiu/AdversarialFocalLoss/blob/main/paper/AFL_20220519.pdf
+  url: https://arxiv.org/pdf/2207.07739.pdf
 
 url_pdf: ''
 url_code: ''
