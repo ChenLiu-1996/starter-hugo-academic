@@ -1,37 +1,24 @@
 ---
-title: "Deep Learning Substitutes Gadolinium in Detecting Functional and Structural Brain Lesions with MRI"
+title: "Adversarial Focal Loss: Asking Your Discriminator for Hard Examples"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Nanyan Zhu
-- Dipika Sikka
-- Xinyang Feng
-- Haoran Sun
-- Xueqing Liu
-- Sabrina Gjerswold-Selleck
-- Hong-Jian Wei
-- Pavan Upadhyayula
-- Angeliki Mela
-- Peter Canoll
-- Cheng-Chia Wu
-- Andrew Laine
-- Jeffrey Lieberman
-- Frank Provenzano
-- Scott Small
-- Jia Guo
+- Xiaomeng Dong
+- Michael Potter
+- Hsi-Ming Chang
+- Ravi Soni
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Project lead"
 
-date: "2020-08-26T00:00:00Z"
+date: "2022-05-19T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2022-07-16T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -40,23 +27,24 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Nature Research Preprint Server*
-publication_short: In *Nature Research Preprint Server*
+publication: Preprint
+publication_short: Preprint
 
-abstract: While MRI contrast agents such as those based on Gadolinium are needed to enhance the detection of structural and functional brain lesions, there are rising concerns over their safety. Here, we hypothesize that a deep learning model, trained using quantitative steady-state contrast-enhanced MRI datasets in mice and humans, could generate contrast-equivalent information from a single non-contrast MRI scan. The model was first trained, optimized, and validated in mice. It was then transferred and adapted to human data, and we find that it can substitute Gadolinium-based contrast agents for detecting functional lesions caused by aging, Schizophrenia, or Alzheimer's disease, and, 8 for enhancing structural lesions caused by brain or breast tumors. Since derived from a 9 commonly-acquired MRI, this framework has the potential for broad clinical utility and 10 can be applied retrospectively to research scans across a host of diseases.
+abstract: Focal Loss has reached incredible popularity as it uses a simple technique to identify and utilize hard examples to achieve better performance on classification. However, this method does not easily generalize outside of classification tasks, such as in keypoint detection. In this paper, we propose a novel adaptation of Focal Loss for keypoint detection tasks, called Adversarial Focal Loss (AFL). AFL not only is semantically analogous to Focal loss, but also works as a plug-and-chug upgrade for arbitrary loss functions. While Focal Loss requires output from a classifier, AFL leverages a separate adversarial network to produce a difficulty score for each input. This difficulty score can then be used to dynamically prioritize learning on hard examples, even in absence of a classifier. In this work, we show AFL's effectiveness in enhancing existing methods in keypoint detection and verify its capability to re-weigh examples based on difficulty.
 
 # Summary. An optional shortened abstract.
-summary: We develop and optimize a deep learning algorithm to produce Gd contrast in mouse and human brain MRI directly from a single non-contrast structural MRI. We show sensible prediction results by quantitatively comparing not only the contrast images but also the downstream scientific findings with the ground truths on two species, eight studies, and various levels of brain disorders.
+summary: We proposed a generalizable adaptation of Focal Loss to keypoint detection leveraging difficulty scores from a discriminator.
+
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 links:
 - name: Preprint Online (Free Download)
-  url: https://assets.researchsquare.com/files/rs-56518/v1_covered.pdf?c=1631839900
+  url: https://arxiv.org/pdf/2207.07739.pdf
 
 url_pdf: ''
 url_code: ''
