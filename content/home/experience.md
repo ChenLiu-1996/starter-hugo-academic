@@ -28,7 +28,7 @@ experience:
     company_logo: org-GEHC
     location: California
     date_start: '2021-08-16'
-    date_end: ''
+    date_end: '2021-07-29'
     # description: |2-
         # Responsibilities include:
         # * Analysing

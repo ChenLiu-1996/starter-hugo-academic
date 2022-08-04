@@ -34,9 +34,9 @@ education:
   - course: B.S.  in Electrical Engineering
     institution: Bucknell University
     year: 2014 - 2018
-  - course: Middle + High School
+  - year: 2007 - 2014
+    course: Middle + High School
     institution: Shanghai Foreign Language School (SFLS)
-    year: 2007 - 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
