@@ -6,34 +6,37 @@ title: Chen Liu
 superuser: true
 
 # Role/position/tagline
-role: Senior Research Scientist
+role: CS PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: GE Healthcare
-  url: https://www.gehealthcare.com/
+- name: Krishnaswamy Lab, Yale University
+  url: https://www.https://www.krishnaswamylab.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Research Scientist primarily working on machine learning in healthcare.
+bio: Researcher in machine learning + healthcare.
 
 # Interests to show in About widget
 interests:
-- Computer Vision
-- Representation Learning
 - Machine Learning in Healthcare
+- Representation Learning
+- Computer Vision
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D. in Computer Science
     institution: Yale University
-    year: 2022 -
-  - course: M.S. in Electrical Engineering
+    year: 2022 - ?
+  - course: M.S.  in Electrical Engineering
     institution: Columbia University
     year: 2018 - 2020
-  - course: B.S. in Electrical Engineering
+  - course: B.S.  in Electrical Engineering
     institution: Bucknell University
     year: 2014 - 2018
+  - course: Middle + High School
+    institution: Shanghai Foreign Language School (SFLS)
+    year: 2007 - 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:cl3760@columbia.edu'
+  link: 'mailto:chen.liu.cl2483@yale.edu'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=3rDjnykAAAAJ&hl=en
