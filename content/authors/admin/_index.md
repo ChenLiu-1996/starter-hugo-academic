@@ -6,7 +6,7 @@ title: Chen Liu
 superuser: true
 
 # Role/position/tagline
-role: CS PhD Student
+role: Computer Science PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -34,9 +34,9 @@ education:
   - course: B.S.  in Electrical Engineering
     institution: Bucknell University
     year: 2014 - 2018
-  - year: 2007 - 2014
-    course: Middle + High School
-    institution: Shanghai Foreign Language School (SFLS)
+  - course: Middle + High School
+    institution: Shanghai Foreign Language School
+    year: 2007 - 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
