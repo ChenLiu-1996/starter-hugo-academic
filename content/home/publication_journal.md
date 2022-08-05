@@ -22,13 +22,13 @@ content:
     # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
     # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
     # 7 = Thesis; 8 = Patent
-    publication_type: '2'
+    publication_type: ["2"]
     author: ''
     exclude_featured: true
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 0
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
