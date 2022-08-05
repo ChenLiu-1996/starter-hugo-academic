@@ -24,7 +24,7 @@ content:
     # 7 = Thesis; 8 = Patent
     publication_type: '2'
     author: ''
-    exclude_featured: true
+    exclude_featured: false
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
