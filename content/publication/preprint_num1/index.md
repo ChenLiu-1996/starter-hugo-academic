@@ -43,7 +43,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Preprint Online (Free Download)
+- name: ArXiv
   url: https://arxiv.org/pdf/2207.07739.pdf
 
 url_pdf: ''

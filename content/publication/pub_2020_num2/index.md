@@ -55,7 +55,7 @@ featured: false
 links:
 - name: Published Online (IEEE Copyright)
   url: https://ieeexplore.ieee.org/abstract/document/9098323
-- name: Arxiv Preprint
+- name: Arxiv
   url: https://arxiv.org/pdf/2001.05551.pdf
 
 url_pdf: ''
