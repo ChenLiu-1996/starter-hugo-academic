@@ -39,8 +39,8 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)* **Oral Presentation**
-publication_short: In *ISMRM 2021* **Oral Presentation**
+publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)* 1-Page Abstract **Oral Presentation**
+publication_short: In *ISMRM 2021* 1-Page Abstract **Oral Presentation**
 
 abstract: Spectral editing studies in mice brains have been limited due to difficulty in spectrum processing and lack of software package analysis. However, in preclinical studies, mouse models play an important role in understanding e ects of drugs and its impact on the nervous system. JET is a fully automated software that performs raw data conversion, spectrum registration, spectral quality assessment and metabolite quanti cation of MEGA-PRESS mouse data at 9.4 T. In this work, we rst introduce the automated spectra processing pipeline of JET and further demonstrate its utilities in mouse studies.
 

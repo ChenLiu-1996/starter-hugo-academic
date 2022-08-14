@@ -38,8 +38,8 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)* **Oral Power Pitch**
-publication_short: In *ISMRM 2020* **Oral Power Pitch**
+publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)* 1-Page Abstract **Oral Power Pitch**
+publication_short: In *ISMRM 2020* 1-Page Abstract **Oral Power Pitch**
 
 abstract: Cerebral blood volume (CBV) is a hemodynamic correlate of oxygen metabolism and reflects brain activity and function. High-resolution CBV maps can be generated using the steady-state gadolinium-enhanced MRI technique. Recent studies suggest that the exogenous gadolinium based contrast agent (GBCA) can accumulate in the brain after frequent use. Here, we develop and optimize a deep learning algorithm, DeepContrast, which performs equally well as exogenous GBCA in mapping CBV of the normal brain tissue and enhancing glioblastoma. Together, these studies validate our hypothesis that a deep learning approach can potentially replace the need for GBCAs in brain MRI.
 

@@ -28,8 +28,8 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)* **Oral Presentation**
-publication_short: In *ISMRM 2021* **Oral Presentation**
+publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)* 1-Page Abstract **Oral Presentation**
+publication_short: In *ISMRM 2021* 1-Page Abstract **Oral Presentation**
 
 abstract: Gadolinium-based contrast agents (GBCAs) have facilitated an improved analysis and understanding of structural lesions, however, present safety risks due to the tissue retention of GBCAs. Here we optimize and apply the deep learning model, DeepContrast, to predict gadolinium uptake in brain and breast structural lesions for structural lesion enhancement. The optimized DeepContrast models predict gadolinium uptake that is comparable to ground-truth scans consisting of the uptake from the GBCAs, using a single T1-weighted pre-contrast scan.
 

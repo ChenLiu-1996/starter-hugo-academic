@@ -32,8 +32,8 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)*
-publication_short: In *ISMRM 2021*
+publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)* 1-Page Abstract 
+publication_short: In *ISMRM 2021* 1-Page Abstract 
 
 abstract: Brain extraction plays an integral role in image processing pipelines in both human and small animal preclinical MRI studies. Due to lack of state-of-the-art tools for automated brain extraction in rodent research, this step is often performed semi-supervised with manual correction, making it prone to inconsistent results. Here, we perform a multi-model brain extraction study and present a semi-automated preprocessing work ow and deep neural network with a 3D Residual Attention U-Net architecture as the optimal network for automated skull-stripping in neuroimaging analysis pipelines, achieving a DICE score of 0.987 and accuracy of 99.7%.
 

@@ -30,8 +30,8 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)* **Oral Power Pitch**
-publication_short: In *ISMRM 2020* **Oral Power Pitch**
+publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)* 1-Page Abstract **Oral Power Pitch**
+publication_short: In *ISMRM 2020* 1-Page Abstract **Oral Power Pitch**
 
 abstract: MRI estimation of cerebral blood volume (CBV) is useful in mapping potential brain function. To obtain high-resolution CBV maps, it typically requires intravenous (IV) injections of Gadolinium-based contrast agents (GBCAs), the use of which has come under new scrutiny. Here, we design and implement a deep learning algorithm, DeepContrast, to estimate GBCA contrast directly from T1-weighted (T1W) structural MRI. The predicted contrast performs equally well as the GBCA-enhanced CBV map even in mapping subtle age-related functional changes in the human brain. Therefore, our study demonstrates the feasibility of substituting GBCA in human brain MRI using DeepContrast.
 
