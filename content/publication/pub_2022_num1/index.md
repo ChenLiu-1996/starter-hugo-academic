@@ -48,8 +48,6 @@ featured: false
 links:
 - name: ArXiv
   url: https://arxiv.org/pdf/2001.05548.pdf
-- name: Media Commentary (Epilepsy Currents)
-  url: https://doi.org/10.1177/15357597211011988
 
 url_pdf: ''
 url_code: ''

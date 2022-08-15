@@ -51,6 +51,8 @@ featured: false
 links:
 - name: Published Online (Free Download)
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/epi.16768
+- name: Media Commentary (Epilepsy Currents)
+  url: https://doi.org/10.1177/15357597211011988
 
 url_pdf: ''
 url_code: ''
