@@ -46,7 +46,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Preprint Online (Free Download)
+- name: ArXiv
   url: https://arxiv.org/pdf/2001.05548.pdf
 
 url_pdf: ''
