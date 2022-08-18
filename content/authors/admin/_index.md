@@ -58,6 +58,10 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/chen-raphael-liu/
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/ChenLiu_1996
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
