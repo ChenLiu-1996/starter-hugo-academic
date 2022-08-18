@@ -57,10 +57,10 @@ social:
   link: https://github.com/ChenRaphaelLiu
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/chen-raphael-liu/
+  link: https://www.linkedin.com/in/chen-raphael-liu
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ChenLiu_1996
+  link: https://www.twitter.com/ChenLiu_1996
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
