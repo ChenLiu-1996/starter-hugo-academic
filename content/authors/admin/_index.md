@@ -20,18 +20,19 @@ bio: Researcher in machine learning + healthcare.
 interests:
 - Machine Learning in Healthcare
 - Representation Learning
+- Graph Neural Network
 - Computer Vision
 
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Computer Science
+  - course: PhD in Computer Science
     institution: Yale University
     year: 2022 - ?
-  - course: M.S.  in Electrical Engineering
+  - course: MS in Electrical Engineering
     institution: Columbia University
     year: 2018 - 2020
-  - course: B.S.  in Electrical Engineering
+  - course: BS in Electrical Engineering
     institution: Bucknell University
     year: 2014 - 2018
   - course: Middle + High School
@@ -80,5 +81,4 @@ highlight_name: true
 <br> I am a machine learning researcher with broad interests.
 <br> At my current job and over my past experience,
 <br> I have been primarily working on deep learning research in healthcare.
-<br> Ultimately, I would like to influence the healthcare domain with my expertise.
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
