@@ -10,11 +10,11 @@ main:
   - name: Awards and Recognitions
     url: '#award'
     weight: 2
-  - name: Experience
-    url: '#experience'
-    weight: 3
   - name: Service
     url: '#service'
+    weight: 3
+  - name: Experience
+    url: '#experience'
     weight: 4
   - name: Publications
     url: '#featured'
