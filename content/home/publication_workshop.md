@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 9
 
-title: Conference Papers
+title: Conference Workshops
 subtitle: ''
 
 content:
@@ -17,7 +17,7 @@ content:
   filters:
     folders:
       - publication
-    tag: ''
+    tag: 'workshop'
     category: ''
     # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
     # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

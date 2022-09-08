@@ -38,7 +38,7 @@ abstract: Gadolinium-based contrast agents (GBCAs) have facilitated an improved 
 summary: See title.
 
 
-tags: []
+tags: ['abstract']
 
 # Display this page in the Featured widget?
 featured: false

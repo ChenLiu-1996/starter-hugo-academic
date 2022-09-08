@@ -41,7 +41,7 @@ abstract: New non invasive methods are required to better delimit the epileptoge
 summary: The ISMRM (extended abstract) version of the Epilepsia 2020 paper.
 
 
-tags: []
+tags: ['abstract']
 
 # Display this page in the Featured widget?
 featured: false

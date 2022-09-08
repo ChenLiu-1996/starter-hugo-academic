@@ -38,7 +38,7 @@ abstract: MRI estimation of cerebral blood volume (CBV) is useful in mapping pot
 # Summary. An optional shortened abstract.
 summary: We develop and optimize a deep learning algorithm to produce Gd contrast in human brain MRI directly from a single non-contrast structural MRI, and demonstrate the predicted contrast is reasonable by showing its regional vulnerability pattern to aging over the entire cortex is highly similar to the ground truth patterns.
 
-tags: []
+tags: ['abstract']
 
 # Display this page in the Featured widget?
 featured: false

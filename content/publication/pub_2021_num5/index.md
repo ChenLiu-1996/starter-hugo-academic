@@ -42,7 +42,7 @@ abstract: Brain extraction plays an integral role in image processing pipelines 
 summary: See title.
 
 
-tags: []
+tags: ['abstract']
 
 # Display this page in the Featured widget?
 featured: false

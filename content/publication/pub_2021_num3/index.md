@@ -40,7 +40,7 @@ abstract: Alzheimer's disease (AD) is a neurodegenerative disorder where functio
 summary: The ISMRM (extended abstract) version of the IEEE ISBI 2021 paper.
 
 
-tags: []
+tags: ['abstract']
 
 # Display this page in the Featured widget?
 featured: false

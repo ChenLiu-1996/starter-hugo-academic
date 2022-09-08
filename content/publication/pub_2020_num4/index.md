@@ -46,7 +46,7 @@ abstract: Cerebral blood volume (CBV) is a hemodynamic correlate of oxygen metab
 # Summary. An optional shortened abstract.
 summary: The ISMRM (extended abstract) version of the IEEE ISBI 2020 paper.
 
-tags: []
+tags: ['abstract']
 
 # Display this page in the Featured widget?
 featured: false
