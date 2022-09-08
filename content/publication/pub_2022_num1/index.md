@@ -39,7 +39,7 @@ abstract: The ability to extrapolate gene expression dynamics in living single c
 summary: We demonstrate the addition of an edge-enhancement approach improved cell segmentation results over the baseline U-Net variant, in both traditional metrics and better preservation of cell shape features.
 
 
-tags: []
+tags: ['conference']
 
 # Display this page in the Featured widget?
 featured: false

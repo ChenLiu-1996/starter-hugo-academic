@@ -46,7 +46,7 @@ abstract: Cerebral blood volume (CBV) is a hemodynamic correlate of oxygen metab
 # Summary. An optional shortened abstract.
 summary: We develop and optimize a deep learning algorithm to produce Gd contrast in mouse brain MRI directly from a single non-contrast structural MRI.
 
-tags: []
+tags: ['conference']
 
 # Display this page in the Featured widget?
 featured: false

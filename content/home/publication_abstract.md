@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 9
+weight: 11
 
 title: Conference Abstracts
 subtitle: ''
