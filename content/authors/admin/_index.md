@@ -55,7 +55,7 @@ social:
   link: https://orcid.org/0000-0001-5416-8464
 - icon: github
   icon_pack: fab
-  link: https://github.com/ChenRaphaelLiu
+  link: https://github.com/ChenLiu-1996
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/chen-raphael-liu
