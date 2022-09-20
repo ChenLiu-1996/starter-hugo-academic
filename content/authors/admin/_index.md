@@ -26,13 +26,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: <b>PhD</b> in Computer Science
+  - course: PhD in Computer Science
     institution: Yale University
-    year: 2022 - ?
-  - course: <b>MS</b> in Electrical Engineering
+    year: 2022 - 2028
+  - course: MS in Electrical Engineering
     institution: Columbia University
     year: 2018 - 2020
-  - course: <b>BS</b> in Electrical Engineering
+  - course: BS in Electrical Engineering
     institution: Bucknell University
     year: 2014 - 2018
   - course: Middle + High School
