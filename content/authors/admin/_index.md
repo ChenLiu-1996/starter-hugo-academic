@@ -78,7 +78,8 @@ highlight_name: true
 ---
 
 <br> Hi, my name is Chen Liu.
-<br> I am a machine learning researcher with broad interests.
-<br> At my current job and over my past experience,
-<br> I have been primarily working on deep learning research in healthcare.
+<br> I am a first year CS PhD student at Yale.
+<br> My research focuses on deep learning in healthcare.
+<br> I worked on medical imaging a lot in the past,
+<br> while recently shifting focus to graph-structured data.
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
