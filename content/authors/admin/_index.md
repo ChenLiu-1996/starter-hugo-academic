@@ -64,7 +64,7 @@ social:
   link: https://www.twitter.com/ChenLiu_1996
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -79,6 +79,6 @@ highlight_name: true
 
 <br> Hi, my name is Chen Liu.
 <br> I am a first year CS PhD student at Yale.
-<br> My research focuses on deep learning in healthcare.
-<br> I worked on medical imaging a lot in the past, while recently I am shifting focus to graph-structured data.
+<br> My area of research is primarily deep learning in healthcare.
+<br> I worked on medical imaging a lot in the past, and recently I am shifting focus to graph-structured data.
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

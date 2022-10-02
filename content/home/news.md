@@ -31,7 +31,8 @@ date_format: Jan 2006
 #   url: ""
 
 design:
-  columns: '2' 
+  columns: '2'
 ---
 
-<br> [Aug 2022] Started my PhD program at Krishnaswamy Lab, Yale University.
+<br> [Sep 2022] Starting to serve as a teaching fellow for <a href="https://graph-and-geometric-learning.github.io/CPSC483-website/#/staff">CPSC483 Deep Learning on Graph-Structured Data</a> instructed by <a href="https://cs.stanford.edu/people/rexy/">Rex Ying</a>.
+<br> [Aug 2022] Began my PhD program at Krishnaswamy Lab, Yale University.
