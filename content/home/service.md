@@ -47,11 +47,13 @@ date_format: Jan 2006
 #   url: ""
 
 design:
-  columns: '2' 
+  columns: '2'
 ---
 
 Served as a reviewer at:
+Journals
 - <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/">IEEE TNNLS</a>
+Conferences
 - <a href="https://nips.cc/">NeurIPS</a> 2021, 2022
 - <a href="https://iclr.cc/">ICLR</a> 2022, 2023
 - <a href="https://icml.cc/">ICML</a> 2022
