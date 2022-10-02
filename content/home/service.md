@@ -51,8 +51,10 @@ design:
 ---
 
 Served as a reviewer at:
+
 Journals
 - <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/">IEEE TNNLS</a>
+
 Conferences
 - <a href="https://nips.cc/">NeurIPS</a> 2021, 2022
 - <a href="https://iclr.cc/">ICLR</a> 2022, 2023
