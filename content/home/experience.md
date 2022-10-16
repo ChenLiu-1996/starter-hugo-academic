@@ -29,8 +29,7 @@ experience:
     location: California
     date_start: '2021-08-16'
     date_end: '2021-07-29'
-    description: |2-
-      
+
 
   - title: Research Software Engineer
     company: Matician Inc
