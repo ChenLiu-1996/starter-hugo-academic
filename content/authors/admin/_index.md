@@ -31,7 +31,7 @@ education:
     year: 2022 - 2028
   - course: MS  in EE
     institution: Columbia University
-    year: 2018 - 2020
+    year: 2018 - 2019
   - course: BS  in EE
     institution: Bucknell University
     year: 2014 - 2018

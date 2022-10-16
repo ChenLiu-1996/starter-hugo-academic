@@ -29,12 +29,9 @@ experience:
     location: California
     date_start: '2021-08-16'
     date_end: '2021-07-29'
-    # description: |2-
-        # Responsibilities include:
-        # * Analysing
-        # * Modelling
-        # * Deploying
-        
+    description: |2-
+      
+
   - title: Research Software Engineer
     company: Matician Inc
     company_url: 'https://www.matician.com'
