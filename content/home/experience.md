@@ -28,7 +28,7 @@ experience:
     company_logo: org-GEHC
     location: California
     date_start: '2021-08-16'
-    date_end: '2021-07-29'
+    date_end: '2022-07-29'
 
 
   - title: Research Software Engineer
