@@ -58,7 +58,7 @@ social:
   link: https://github.com/ChenLiu-1996
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/chen-raphael-liu
+  link: https://www.linkedin.com/in/chenliu1996
 - icon: twitter
   icon_pack: fab
   link: https://www.twitter.com/ChenLiu_1996
