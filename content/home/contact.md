@@ -47,7 +47,7 @@ content:
     - icon: linkedin
       icon_pack: fab
       name: Message Me
-      link: https://www.linkedin.com/in/chen-raphael-liu/
+      link: https://www.linkedin.com/in/chenliu1996/
 
 design:
   columns: '2'
