@@ -44,7 +44,7 @@ featured: false
 links:
 - name: Energies
   url: https://www.mdpi.com/1996-1073/13/6/1322/htm
-- <iframe src="https://www.gbif.org/api/widgets/literature/button?gbifDatasetKey=50c9509d-22c7-4a22-a47d-8c48425ef4a7" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="false" style="width: 140px; height: 24px;"></iframe>
+# - <iframe src="https://www.gbif.org/api/widgets/literature/button?gbifDatasetKey=50c9509d-22c7-4a22-a47d-8c48425ef4a7" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="false" style="width: 140px; height: 24px;"></iframe>
 
 url_pdf: ''
 url_code: ''
