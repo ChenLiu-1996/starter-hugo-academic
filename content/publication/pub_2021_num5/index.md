@@ -2,7 +2,7 @@
 title: "DL-BET-A Deep Learning Based Tool for Automatic Brain Extraction from Structural Magnetic Resonance Images in Mice"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Sabrina Gjerswold-Selleck
@@ -32,8 +32,8 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)* 1-Page Abstract 
-publication_short: In *ISMRM 2021* 1-Page Abstract 
+publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)* 1-Page Abstract
+publication_short: In *ISMRM 2021* 1-Page Abstract
 
 abstract: Brain extraction plays an integral role in image processing pipelines in both human and small animal preclinical MRI studies. Due to lack of state-of-the-art tools for automated brain extraction in rodent research, this step is often performed semi-supervised with manual correction, making it prone to inconsistent results. Here, we perform a multi-model brain extraction study and present a semi-automated preprocessing work ow and deep neural network with a 3D Residual Attention U-Net architecture as the optimal network for automated skull-stripping in neuroimaging analysis pipelines, achieving a DICE score of 0.987 and accuracy of 99.7%.
 
@@ -49,7 +49,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Published Online (Free Download)
+- name: ISMRM
   url: https://mr.research.columbia.edu/sites/default/files/content/Gjerswold-Selleck%20DL-BET.pdf
 
 url_pdf: ''
@@ -62,7 +62,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption:
   focal_point: ""

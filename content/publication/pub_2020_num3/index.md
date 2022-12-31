@@ -2,7 +2,7 @@
 title: "Substituting Gadolinium In Human Brain MRI Using DeepContrast"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
@@ -45,7 +45,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Published Online (Free Download)
+- name: ISMRM
   url: https://index.mirasmart.com/ISMRM2020/PDFfiles/1031.html
 
 url_pdf: ''
@@ -58,7 +58,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption:
   focal_point: ""

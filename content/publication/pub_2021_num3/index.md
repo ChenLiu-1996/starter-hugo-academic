@@ -2,7 +2,7 @@
 title: "Deep Learning Identifies Neuroimaging Signatures of Alzheimer's Disease Using Structural and Artificial Functional MRI Data"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Nanyan Zhu
@@ -30,8 +30,8 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)* 1-Page Abstract 
-publication_short: In *ISMRM 2021* 1-Page Abstract 
+publication: In *International Society for Magnetic Resonance in Medicine (ISMRM)* 1-Page Abstract
+publication_short: In *ISMRM 2021* 1-Page Abstract
 
 abstract: Alzheimer's disease (AD) is a neurodegenerative disorder where functional decits precede structural deformations. Various studies have demonstrated the efficacy of deep learning in diagnosing AD using imaging data, and that functional modalities are more helpful than structural counterparts over comparable sample size. To deal with the lack of large-scale functional data in the real world, we used a structure-to-function translation network to articially generate a previously non-existent spatiallymatched functional neuroimaging dataset from existing large-scale structural data. The articial functional data, generated with little cost, complemented the authentic structural data to further improve the performance of AD classication.
 
@@ -47,7 +47,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Published Online (Free Download)
+- name: ISMRM
   url: https://mr.research.columbia.edu/sites/default/files/content/Zhu%20Deep%20Learning.pdf
 
 url_pdf: ''
@@ -60,7 +60,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption:
   focal_point: ""
