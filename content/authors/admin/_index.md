@@ -15,6 +15,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: Researcher in machine learning + healthcare.
+<div id="bizgenius-citation-widget-container-map" style="width:100%;height:400px"></div>
 
 # Interests to show in About widget
 interests:
