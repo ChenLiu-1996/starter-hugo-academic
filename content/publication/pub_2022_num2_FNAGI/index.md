@@ -60,7 +60,7 @@ links:
 - name: NIH PubMed
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9407020/
 
-url_pdf: ''
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9407020/pdf/fnagi-14-923673.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

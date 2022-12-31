@@ -58,7 +58,7 @@ links:
 - name: Arxiv
   url: https://arxiv.org/pdf/2001.05551.pdf
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098323'
 url_code: ''
 url_dataset: ''
 url_poster: ''

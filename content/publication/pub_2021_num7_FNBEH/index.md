@@ -50,9 +50,11 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Frontiers
-  url: https://www.frontiersin.org/articles/10.3389/fnbeh.2021.695416/full?fbclid=IwAR0uveoiJgfzB4fYRuoqkfhZo60oLhwpTVXZ8mwA9EvqklAHMF-qVbp5I34
+  url: https://www.frontiersin.org/articles/10.3389/fnbeh.2021.695416/full
+- name: NIH PubMed
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8427754/
 
-url_pdf: ''
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8427754/pdf/fnbeh-15-695416.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

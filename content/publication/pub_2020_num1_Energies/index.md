@@ -54,8 +54,6 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# <iframe src="https://www.gbif.org/api/widgets/literature/button?gbifDatasetKey=50c9509d-22c7-4a22-a47d-8c48425ef4a7" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="false" style="width: 140px; height: 24px;"></iframe>
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:

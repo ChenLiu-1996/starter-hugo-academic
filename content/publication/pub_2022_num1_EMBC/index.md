@@ -47,11 +47,11 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: IEEE
-  url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871026
+  url: https://ieeexplore.ieee.org/document/9871026
 - name: ArXiv
   url: https://arxiv.org/pdf/2001.05548.pdf
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871026'
 url_code: ''
 url_dataset: ''
 url_poster: ''

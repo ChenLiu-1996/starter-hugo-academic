@@ -54,7 +54,7 @@ links:
 - name: Commentary on Epilepsy Currents
   url: https://doi.org/10.1177/15357597211011988
 
-url_pdf: ''
+url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/epi.16768'
 url_code: ''
 url_dataset: ''
 url_poster: ''
