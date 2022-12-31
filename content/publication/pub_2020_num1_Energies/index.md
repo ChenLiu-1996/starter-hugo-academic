@@ -2,7 +2,7 @@
 title: "Understanding and Modeling Climate Impacts on Photosynthetic Dynamics with FLUXNET Data and Neural Networks"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Nanyan Zhu
@@ -42,8 +42,9 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Published Online (Free Download)
+- name: Energies
   url: https://www.mdpi.com/1996-1073/13/6/1322/htm
+- <iframe src="https://www.gbif.org/api/widgets/literature/button?gbifDatasetKey=50c9509d-22c7-4a22-a47d-8c48425ef4a7" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="false" style="width: 140px; height: 24px;"></iframe>
 
 url_pdf: ''
 url_code: ''
@@ -55,7 +56,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
@@ -109,29 +110,29 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
   <section>
     <div id="inner">
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-        <span style="float:left"; 
-          class="__dimensions_badge_embed__" 
-          data-doi="10.3390/en13061322" 
-          data-hide-zero-citations="false" 
+        <span style="float:left";
+          class="__dimensions_badge_embed__"
+          data-doi="10.3390/en13061322"
+          data-hide-zero-citations="false"
           data-legend="always">
         </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-        <div  style="float:right"; 
-          data-link-target="_blank" 
-          data-badge-details="right" 
+        <div  style="float:right";
+          data-link-target="_blank"
+          data-badge-details="right"
           data-badge-type="medium-donut"
-          data-doi="10.3390/en13061322"   
-          data-condensed="true" 
-          data-hide-no-mentions="false" 
+          data-doi="10.3390/en13061322"
+          data-condensed="true"
+          data-hide-no-mentions="false"
           class="altmetric-embed">
         </div>
     </div>
     <div id="inner">
       <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
         <a href="https://plu.mx/plum/a/?doi=10.3390/en13061322"
-          data-orientation="horizontal" 
-          class="plumx-summary" 
-          data-site="plum" 
+          data-orientation="horizontal"
+          class="plumx-summary"
+          data-site="plum"
           data-hide-when-empty="false">
         </a>
     </div>

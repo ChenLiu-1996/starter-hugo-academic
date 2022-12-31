@@ -2,7 +2,7 @@
 title: "Deep Learning of MRI Contrast Enhancement for Mapping Cerebral Blood Volume from Single-Modal Non-Contrast Scans of Aging and Alzheimer's Disease Brains"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
@@ -55,8 +55,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Published Online (Free Download)
+- name: Frontiers
   url: https://www.frontiersin.org/articles/10.3389/fnagi.2022.923673/abstract
+- name: NIH PubMed
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9407020/
 
 url_pdf: ''
 url_code: ''
@@ -68,7 +70,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption:
   focal_point: ""
@@ -117,29 +119,29 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
   <section>
     <div id="inner">
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-        <span style="float:left"; 
-          class="__dimensions_badge_embed__" 
-          data-doi="10.3389/fnagi.2022.923673" 
-          data-hide-zero-citations="false" 
+        <span style="float:left";
+          class="__dimensions_badge_embed__"
+          data-doi="10.3389/fnagi.2022.923673"
+          data-hide-zero-citations="false"
           data-legend="always">
         </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-        <div  style="float:right"; 
-          data-link-target="_blank" 
-          data-badge-details="right" 
+        <div  style="float:right";
+          data-link-target="_blank"
+          data-badge-details="right"
           data-badge-type="medium-donut"
-          data-doi="10.3389/fnagi.2022.923673"   
-          data-condensed="true" 
-          data-hide-no-mentions="false" 
+          data-doi="10.3389/fnagi.2022.923673"
+          data-condensed="true"
+          data-hide-no-mentions="false"
           class="altmetric-embed">
         </div>
     </div>
     <div id="inner">
       <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
         <a href="https://plu.mx/plum/a/?doi=10.3389/fnagi.2022.923673"
-          data-orientation="horizontal" 
-          class="plumx-summary" 
-          data-site="plum" 
+          data-orientation="horizontal"
+          class="plumx-summary"
+          data-site="plum"
           data-hide-when-empty="false">
         </a>
     </div>
