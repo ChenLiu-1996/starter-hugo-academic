@@ -80,5 +80,6 @@ highlight_name: true
 <br> Hi, my name is Chen Liu.
 <br> I am a first year CS PhD student at Yale.
 <br> My area of research is primarily deep learning in healthcare.
-<br> I worked on medical imaging a lot in the past, and recently I am shifting focus to graph-structured data.
+<br> I worked on medical imaging a lot in the past, and gradually shifting focus to computational biology.
+<br>
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
