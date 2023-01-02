@@ -11,7 +11,7 @@ role: Computer Science PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Krishnaswamy Lab, Yale University
-  url: https://www.https://www.krishnaswamylab.org/
+#   url: https://www.krishnaswamylab.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Researcher in machine learning + healthcare.

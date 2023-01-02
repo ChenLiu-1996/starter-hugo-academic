@@ -33,6 +33,6 @@ date_format: Jan 2006
 design:
   columns: '2'
 ---
-
-<br> [Sep 2022] Began to serve as a teaching fellow for <a href="https://graph-and-geometric-learning.github.io/CPSC483-website/#/staff">CPSC483 Deep Learning on Graph-Structured Data</a> instructed by <a href="https://cs.stanford.edu/people/rexy/">Rex Ying</a>.
-<br> [Aug 2022] Started my PhD program at <a href="https://www.krishnaswamylab.org/">Krishnaswamy Lab</a>, Yale University.
+<br> [Sep 2022] Working on a few projects in the lab and renovating some codebases, such as <a href="https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg">Unsupervised Medical Image Segmentation</a>, <a href="https://github.com/ChenLiu-1996/LEGS">Learnable Geomeric Scattering</a>, etc.
+<br> [Sep 2022] Serving as a teaching fellow for <a href="https://graph-and-geometric-learning.github.io/CPSC483-website/#/staff">CPSC483 Deep Learning on Graph-Structured Data</a> instructed by <a href="https://cs.stanford.edu/people/rexy/">Rex Ying</a>.
+<br> [Aug 2022] Starting my PhD program at <a href="https://www.krishnaswamylab.org/">Krishnaswamy Lab</a>, <a href="https://cpsc.yale.edu/people/PhD-students">Yale University</a>.
