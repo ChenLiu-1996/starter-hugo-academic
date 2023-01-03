@@ -78,6 +78,8 @@ highlight_name: true
 ---
 
 <br> Hi, my name is Chen Liu.
+<br> My name in my native language is 刘 晨 (family name followed by given name), pronounced as "Leo Chen".
+<br>
 <br> I am a first year CS PhD student at Yale.
 <br> My area of research is primarily deep learning in healthcare.
 <br> I worked on medical imaging a lot in the past, and gradually shifting focus to computational biology.
