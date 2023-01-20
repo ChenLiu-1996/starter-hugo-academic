@@ -42,7 +42,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: MDPI
+- name: Online
   url: https://www.mdpi.com/1996-1073/13/6/1322/htm
 
 url_pdf: ''
