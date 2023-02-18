@@ -82,6 +82,6 @@ highlight_name: true
 <br>
 <br> I am a first year CS PhD student at Yale.
 <br> My area of research is primarily deep learning in healthcare.
-<br> I worked on medical imaging a lot in the past, and gradually shifting focus to computational biology.
+<br> I worked on medical imaging a lot in the past, and I am gradually shifting focus to computational biology.
 <br>
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
