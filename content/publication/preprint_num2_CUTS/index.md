@@ -111,7 +111,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
         <span style="float:left";
           class="__dimensions_badge_embed__"
-          data-doi="10.3389/fnagi.2022.923673"
+          data-doi="10.48550/arXiv.2209.11359"
           data-hide-zero-citations="false"
           data-legend="always">
         </span>
@@ -120,7 +120,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
           data-link-target="_blank"
           data-badge-details="right"
           data-badge-type="medium-donut"
-          data-doi="10.3389/fnagi.2022.923673"
+          data-doi="10.48550/arXiv.2209.11359"
           data-condensed="true"
           data-hide-no-mentions="false"
           class="altmetric-embed">
