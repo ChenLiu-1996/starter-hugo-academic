@@ -128,7 +128,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
     </div>
     <div id="inner">
       <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.3389/fnagi.2022.923673"
+        <a href="https://plu.mx/plum/a/?doi=10.48550/arXiv.2209.11359"
           data-orientation="horizontal"
           class="plumx-summary"
           data-site="plum"
