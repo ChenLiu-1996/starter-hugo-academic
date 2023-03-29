@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 4
 
-title: 'Professional Service'
+title: 'Academic Service'
 subtitle:
 
 # Date format
@@ -50,12 +50,11 @@ design:
   columns: '2'
 ---
 
-Served as a reviewer at:
+Journal Reviewer
+<a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/">IEEE TNNLS</a>
 
-Journals
-- <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/">IEEE TNNLS</a>
+Conference Program Committee Member
+<a href="https://nips.cc/">NeurIPS</a> 2021-2023, <a href="https://iclr.cc/">ICLR</a> 2022-2023, <a href="https://icml.cc/">ICML</a> 2022
 
-Conferences
-- <a href="https://nips.cc/">NeurIPS</a> 2021, 2022
-- <a href="https://iclr.cc/">ICLR</a> 2022, 2023
-- <a href="https://icml.cc/">ICML</a> 2022
+Teaching Fellow
+(2022) <a href="https://graph-and-geometric-learning.github.io/CPSC483-website/#/staff">CPSC483 Deep Learning on Graph-Structured Data</a> instructed by <a href="https://cs.stanford.edu/people/rexy/">Rex Ying</a>.
