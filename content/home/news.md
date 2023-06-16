@@ -33,6 +33,6 @@ date_format: Jan 2006
 design:
   columns: '2'
 ---
-<br> [Jun 2023] Two patents came online. Kudos to my great colleagues at GE Healthcare!
+<br> [Jun 2023] **Two patents** came online. Kudos to my great colleagues at GE Healthcare!
 <br> [Aug 2022] Started my PhD program at <a href="https://www.krishnaswamylab.org/">Krishnaswamy Lab</a>, <a href="https://cpsc.yale.edu/people/PhD-students">Yale University</a>.
 <br> [Jul 2022] Recognized as an **Outstanding Reviewer at ICML 2022**!
