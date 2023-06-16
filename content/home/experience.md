@@ -36,8 +36,8 @@ experience:
     company_url: 'https://www.matician.com'
     company_logo: org-matician
     location: California
-    date_start: '2020-01-04'
-    date_end: '2020-06-16'
+    date_start: '2021-01-04'
+    date_end: '2021-06-16'
 
   - title: Research Assistant (Fully funded by Grant)
     company: Columbia University (Medical Center)
