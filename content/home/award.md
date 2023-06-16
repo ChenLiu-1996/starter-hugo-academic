@@ -41,7 +41,7 @@ item:
   description: "Among top 10% of reviewers at ICML 2022. <br>Invited as an ICML 2022 Session Chair."
   organization: International Conference on Machine Learning (ICML)
   organization_url: https://icml.cc/
-  title: Outstanding Reviewer + Session Chair at ICML 2022
+  title: Outstanding Reviewer at ICML 2022
   url: "https://icml.cc/Conferences/2022/Reviewers"
 
 design:
