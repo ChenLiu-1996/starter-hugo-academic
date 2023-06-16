@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Senior Data Scientist - Deep Learning
+  - title: Senior Research Scientist
     company: GE Healthcare
     company_url: 'https://www.gehealthcare.com/'
     company_logo: org-GEHC
@@ -39,7 +39,7 @@ experience:
     date_start: '2020-01-04'
     date_end: '2020-06-16'
 
-  - title: Research Assistant
+  - title: Research Assistant (Fully funded by Grant)
     company: Columbia University (Medical Center)
     company_url: 'https://www.columbia.edu'
     company_logo: org-columbia
