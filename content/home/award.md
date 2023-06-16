@@ -42,7 +42,7 @@ item:
   organization: International Conference on Machine Learning (ICML)
   organization_url: https://icml.cc/
   title: Outstanding Reviewer + Session Chair at ICML 2022
-  url: ""
+  url: "https://icml.cc/Conferences/2022/Reviewers"
 
 design:
   columns: '2'
