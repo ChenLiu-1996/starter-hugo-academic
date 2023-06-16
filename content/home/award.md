@@ -23,13 +23,27 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2023-06-01"
+  description: "System and Method for Obtaining Accurate Measurements and Quantification of X-Ray Image from Estimation of Key Anatomical Locations"
+  title: US Patent
+  url: "https://patents.google.com/patent/US20230169682A1/en"
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2023-06-01"
+  description: "X-Ray Lead Marker Detection System for X-Ray Imaging System"
+  title: US Patent
+  url: "https://patents.google.com/patent/US20230165555A1/en"
+
+- certificate_url: ""
+  date_end: ""
   date_start: "2022-07-13"
-  description: "Among top 10% of reviewers at ICML 2022. <br>Invited as an ICML 2022 Session Chair." #(but unable to accept due to travel conflits)
+  description: "Among top 10% of reviewers at ICML 2022. <br>Invited as an ICML 2022 Session Chair."
   organization: International Conference on Machine Learning (ICML)
   organization_url: https://icml.cc/
   title: Outstanding Reviewer + Session Chair at ICML 2022
   url: ""
 
 design:
-  columns: '2' 
+  columns: '2'
 ---
