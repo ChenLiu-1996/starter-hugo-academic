@@ -43,7 +43,7 @@ summary: We developed a fully unsupervised framework for image segmentation and 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
