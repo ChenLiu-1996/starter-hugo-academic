@@ -34,6 +34,5 @@ design:
   columns: '2'
 ---
 <br> [Jun 2023] Two patents came online. Kudos to my great colleagues at GE Healthcare!
-<br> [Feb 2023] While working on a project, <a href="https://github.com/ChenLiu-1996/GAN-evaluator">wrote a <b>GAN Evaluator</b> for IS and FID</a>. It is easy to use and allows for on-the-fly evaluation during training. Available via  `pip install`.
 <br> [Aug 2022] Started my PhD program at <a href="https://www.krishnaswamylab.org/">Krishnaswamy Lab</a>, <a href="https://cpsc.yale.edu/people/PhD-students">Yale University</a>.
 <br> [Jul 2022] Recognized as an **Outstanding Reviewer at ICML 2022**!

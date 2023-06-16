@@ -19,8 +19,7 @@ bio: Researcher in machine learning + healthcare.
 # Interests to show in About widget
 interests:
 - Machine Learning in Healthcare
-- Representation Learning
-- Graph Neural Network
+- Neural Network Manifold
 - Computer Vision
 
 # Education to show in About widget
@@ -80,8 +79,8 @@ highlight_name: true
 <br> Hi, my name is Chen Liu.
 <br> My name in my native language is 刘 晨 (family name followed by given name), pronounced as "Leo Chen".
 <br>
-<br> I am a first year CS PhD student at Yale.
+<br> I am a second year CS PhD student at Yale.
 <br> My area of research is primarily deep learning in healthcare.
-<br> I worked on medical imaging a lot in the past, and I am gradually shifting focus to computational biology.
+<br> I worked on medical imaging a lot in the past, and I am recently focusing on understanding and interpreting the neural network manifolds.
 <br>
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
