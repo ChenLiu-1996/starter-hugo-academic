@@ -24,15 +24,15 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2023-06-01"
-  description: "System and Method for Obtaining Accurate Measurements and Quantification of X-Ray Image from Estimation of Key Anatomical Locations"
-  title: US Patent
+  description: ""
+  title: "US Patent: System and Method for Obtaining Accurate Measurements and Quantification of X-Ray Image from Estimation of Key Anatomical Locations"
   url: "https://patents.google.com/patent/US20230169682A1/en"
 
 - certificate_url: ""
   date_end: ""
   date_start: "2023-06-01"
-  description: "X-Ray Lead Marker Detection System for X-Ray Imaging System"
-  title: US Patent
+  description: ""
+  title: "US Patent: X-Ray Lead Marker Detection System for X-Ray Imaging System"
   url: "https://patents.google.com/patent/US20230165555A1/en"
 
 - certificate_url: ""
