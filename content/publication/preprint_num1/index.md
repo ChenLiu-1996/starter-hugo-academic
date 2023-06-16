@@ -39,7 +39,7 @@ summary: We proposed a generalizable adaptation of Focal Loss to keypoint detect
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
