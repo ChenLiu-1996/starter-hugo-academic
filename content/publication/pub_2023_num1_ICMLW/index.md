@@ -39,7 +39,7 @@ abstract: Here we present information theoretic measures based on the data diffu
 # Summary. An optional shortened abstract.
 summary: We proposed an information-theory based framework to measure the entropy and mutual information of neural network representations.
 
-tags: ['conference']
+tags: ['workshop']
 
 # Display this page in the Featured widget?
 featured: true
