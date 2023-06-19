@@ -21,6 +21,8 @@ interests:
 - Machine Learning in Healthcare
 - Neural Network Manifold
 - Computer Vision
+- Medical Imaging
+- Computational Biology
 
 # Education to show in About widget
 education:
