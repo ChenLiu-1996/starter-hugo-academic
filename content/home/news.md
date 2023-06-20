@@ -33,7 +33,7 @@ date_format: Jan 2006
 design:
   columns: '2'
 ---
-<br> [Jun 2023] Our paper "Assessing Neural Network Representations During Training Using Data Diffusion Spectra" has been accepted to **ICML 2023 Workshop** on Topology, Algebra, and Geometry in Machine Learning **(TAG-ML)**. Will be available on arxiv when permission is granted by the FAIR team at Meta AI.
+<br> [Jun 2023] Our paper "Assessing Neural Network Representations During Training Using Data Diffusion Spectra" has been accepted to **ICML 2023 TAG-ML Workshop**. Will be available on arxiv when permission is granted by the FAIR team at Meta AI.
 <br> [Jun 2023] **Two patents** came online. Kudos to my great colleagues at GE Healthcare!
 <br> [Aug 2022] Started my PhD program at <a href="https://www.krishnaswamylab.org/">Krishnaswamy Lab</a>, <a href="https://cpsc.yale.edu/people/PhD-students">Yale University</a>.
 <br> [Jul 2022] Recognized as an **Outstanding Reviewer at ICML 2022**!
