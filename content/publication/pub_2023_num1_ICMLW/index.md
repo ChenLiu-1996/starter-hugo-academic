@@ -54,7 +54,7 @@ links:
 #   url: https://arxiv.org/pdf/2104.04672.pdf
 
 url_pdf: https://openreview.net/pdf?id=DQW3ilre3Q
-url_code: ''
+url_code: https://github.com/ChenLiu-1996/DiffusionSpectralEntropy
 url_dataset: ''
 url_poster: ''
 url_project: ''
