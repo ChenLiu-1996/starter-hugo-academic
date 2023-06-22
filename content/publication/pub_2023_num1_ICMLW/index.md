@@ -53,7 +53,7 @@ links:
 # - name: Arxiv
 #   url: https://arxiv.org/pdf/2104.04672.pdf
 
-# url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9433808'
+url_pdf: https://openreview.net/pdf?id=DQW3ilre3Q
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -95,8 +95,8 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 
 <!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
 
-<!--
-<html>
+
+<!-- <html>
   <style>
     section {
         background: white;
@@ -115,7 +115,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
         <span style="float:left";
           class="__dimensions_badge_embed__"
-          data-doi="10.1109/ISBI48211.2021.9433808"
+          data-doi="10.3389/fnagi.2022.923673"
           data-hide-zero-citations="false"
           data-legend="always">
         </span>
@@ -124,7 +124,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
           data-link-target="_blank"
           data-badge-details="right"
           data-badge-type="medium-donut"
-          data-doi="10.1109/ISBI48211.2021.9433808"
+          data-doi="10.3389/fnagi.2022.923673"
           data-condensed="true"
           data-hide-no-mentions="false"
           class="altmetric-embed">
@@ -132,7 +132,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
     </div>
     <div id="inner">
       <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.1109/ISBI48211.2021.9433808"
+        <a href="https://plu.mx/plum/a/?doi=10.3389/fnagi.2022.923673"
           data-orientation="horizontal"
           class="plumx-summary"
           data-site="plum"
