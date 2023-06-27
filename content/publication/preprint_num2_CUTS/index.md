@@ -50,8 +50,8 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/2209.11359
 
-url_pdf: 'https://arxiv.org/pdf/2209.11359v2.pdf'
-url_code: ''
+url_pdf: https://arxiv.org/pdf/2209.11359v2.pdf
+url_code: https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg
 url_dataset: ''
 url_poster: ''
 url_project: ''
