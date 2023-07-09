@@ -51,13 +51,20 @@ design:
 ---
 
 *Journal Reviewer*
-
-<a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/">IEEE TNNLS</a>
+<ol type="1">
+  <li> <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/">IEEE TNNLS</a> 2021-2023 </li>
+</ol>
 
 *Conference Program Committee Member*
 
-<a href="https://nips.cc/">NeurIPS</a> 2021-2023, <a href="https://iclr.cc/">ICLR</a> 2022-2023, <a href="https://icml.cc/">ICML</a> 2022
+<ol type="1">
+  <li> <a href="https://nips.cc/">NeurIPS</a> 2021-2023 </li>
+  <li> <a href="https://iclr.cc/">ICLR</a> 2022-2023 </li>
+  <li> <a href="https://icml.cc/">ICML</a> 2022 </li>
+</ol>
 
 *Teaching Fellow*
-
-<a href="https://graph-and-geometric-learning.github.io/CPSC483-website/#/staff">CPSC483 Deep Learning on Graph-Structured Data</a> instructed by <a href="https://cs.stanford.edu/people/rexy/">Rex Ying</a>.
+<ol type="1">
+  <li> [Fall 2022] <a href="https://graph-and-geometric-learning.github.io/CPSC483-website/#/staff">CPSC483 Deep Learning on Graph-Structured Data</a> instructed by <a href="https://cs.stanford.edu/people/rexy/">Rex Ying</a> </li>
+  <li> [Fall 2023] CPSC488 AI Foundation Models instructed by <a href="https://armancohan.com/">Arman Cohan</a> </li>
+</ol>

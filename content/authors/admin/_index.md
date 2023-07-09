@@ -79,7 +79,7 @@ highlight_name: true
 ---
 
 <br> Hi, my name is Chen Liu.
-<br> Or alternatively, 刘 晨 (family name followed by given name), pronounced as "Leo Chen".
+<br> Or alternatively, 刘 晨 (family name followed by given name).
 <br>
 <br> I am a second year CS PhD student at Yale.
 <br> My area of research is primarily deep learning in healthcare.
