@@ -65,6 +65,6 @@ Conference Program Committee Member
 
 Teaching Fellow
 <ol type="1">
-  <li> [Fall 2023] <a href="https://yale-nlp.github.io/cpsc488/">CPSC488 AI Foundation Models</a> instructed by <a href="https://armancohan.com/">Arman Cohan</a> </li>
-  <li> [Fall 2022] <a href="https://graph-and-geometric-learning.github.io/CPSC483-website/#/staff">CPSC483 Deep Learning on Graph-Structured Data</a> instructed by <a href="https://cs.stanford.edu/people/rexy/">Rex Ying</a> </li>
+  <li> [Fall 2023] <a href="https://yale-nlp.github.io/cpsc488/">CPSC488 AI Foundation Models</a> with Prof. <a href="https://armancohan.com/">Arman Cohan</a> </li>
+  <li> [Fall 2022] <a href="https://graph-and-geometric-learning.github.io/CPSC483-website/#/staff">CPSC483 Deep Learning on Graph-Structured Data</a> with Prof. <a href="https://cs.stanford.edu/people/rexy/">Rex Ying</a> </li>
 </ol>
