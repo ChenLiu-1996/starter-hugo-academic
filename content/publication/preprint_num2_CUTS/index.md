@@ -1,5 +1,5 @@
 ---
-title: "CUTS: A Fully Unsupervised Framework for Medical Image Segmentation"
+title: "CUTS: A Framework for Multigranular Unsupervised Medical Image Segmentation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
