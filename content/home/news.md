@@ -33,7 +33,7 @@ date_format: Jan 2006
 design:
   columns: '2'
 ---
-<br> [Jun 2023] <a href="https://www.chenliu1996.com/publication/pub_2023_num1_icmlw/">Our paper</a> has been accepted to **ICML 2023 Workshop on TAG-ML**.
+<br> [Jun 2023] <a href="https://www.chenliu1996.com/publication/pub_2023_num1_DSE/">Our paper</a> has been accepted to **ICML 2023 Workshop on TAG-ML**. Many thanks to collaborators from Mila and Meta AI (FAIR).
 <br> [Jun 2023] **Two patents** came online. Kudos to my great colleagues at GE Healthcare!
 <br> [Aug 2022] Started my PhD program at <a href="https://www.krishnaswamylab.org/">Krishnaswamy Lab</a>, <a href="https://cpsc.yale.edu/people/PhD-students">Yale University</a>.
 <br> [Jul 2022] Recognized as an **Outstanding Reviewer at ICML 2022**!

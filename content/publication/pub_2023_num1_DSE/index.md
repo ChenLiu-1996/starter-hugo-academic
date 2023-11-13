@@ -47,14 +47,14 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: ICML Workshop
-  url: https://openreview.net/pdf?id=DQW3ilre3Q
+# - name: ICML Workshop
+#   url: https://openreview.net/pdf?id=DQW3ilre3Q
 # - name: IEEE
 #   url: https://ieeexplore.ieee.org/abstract/document/9433808/
 # - name: Arxiv
 #   url: https://arxiv.org/pdf/2104.04672.pdf
 
-url_pdf: https://openreview.net/pdf?id=DQW3ilre3Q
+# url_pdf: https://openreview.net/pdf?id=DQW3ilre3Q
 url_code: https://github.com/ChenLiu-1996/DiffusionSpectralEntropy
 url_dataset: ''
 url_poster: https://www.chenliu1996.com/publication/pub_2023_num1_icmlw/ICML2023_TAGML_poster56.pdf
