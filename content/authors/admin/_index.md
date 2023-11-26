@@ -6,7 +6,7 @@ title: Chen Liu
 superuser: true
 
 # Role/position/tagline
-role: Computer Science PhD Student
+role: PhD Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,12 +14,12 @@ organizations:
 #   url: https://www.krishnaswamylab.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Researcher in machine learning + healthcare.
+bio: Researcher in machine learning and healthcare.
 
 # Interests to show in About widget
 interests:
+- Manifold Learning
 - Machine Learning in Healthcare
-- Neural Network Manifold
 - Computer Vision
 - Medical Imaging
 - Computational Biology
@@ -82,7 +82,7 @@ highlight_name: true
 <br> Or alternatively, 刘 晨 (family name followed by given name).
 <br>
 <br> I am a second year CS PhD student at Yale.
-<br> My area of research is primarily deep learning in healthcare.
-<br> I worked on medical imaging a lot in the past, and I am recently focusing on understanding and interpreting the neural network manifolds.
+<br> My area of research is machine learning, and more specifically, manifold learning.
+<br> I would like to position myself half-way between theory and application. On the research side, I focus on how to help neural network learn better representations in the latent space. On the application side, I extend my research to medical imaging and other biomedical data.
 <br>
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
