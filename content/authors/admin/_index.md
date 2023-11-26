@@ -83,6 +83,6 @@ highlight_name: true
 <br>
 <br> I am a second year CS PhD student at Yale.
 <br> My area of research is machine learning, and more specifically, manifold learning.
-<br> My research explores both theory and application of machine learning. On the research side, I focus on how to help neural network learn better representations in the latent space. On the application side, I extend my research to medical imaging and other biomedical data.
+<br><br> My research explores both theory and application of machine learning. On the research side, I focus on helping neural networks learn better representations in the latent space. On the application side, I extend my research to medical imaging and other biomedical data.
 <br>
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
