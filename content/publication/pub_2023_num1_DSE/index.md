@@ -1,5 +1,5 @@
 ---
-title: "Assessing Neural Network Representations During Training Using Noise-resilient Diffusion Spectral Entropy"
+title: "Assessing Neural Network Representations During Training Using Noise-Resilient Diffusion Spectral Entropy"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
