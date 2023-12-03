@@ -54,8 +54,8 @@ links:
 # - name: Arxiv
 #   url: https://arxiv.org/pdf/2104.04672.pdf
 
-# url_pdf: https://openreview.net/pdf?id=DQW3ilre3Q
-url_code: https://www.chenliu1996.com/publication/pub_2023_num1_DSE/DSE.pdf
+url_pdf: https://www.chenliu1996.com/publication/pub_2023_num1_DSE/DSE.pdf
+url_code: https://github.com/ChenLiu-1996/DiffusionSpectralEntropy
 url_dataset: ''
 url_poster: ''
 url_project: ''
