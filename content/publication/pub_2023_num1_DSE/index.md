@@ -55,9 +55,9 @@ links:
 #   url: https://arxiv.org/pdf/2104.04672.pdf
 
 # url_pdf: https://openreview.net/pdf?id=DQW3ilre3Q
-url_code: https://github.com/ChenLiu-1996/DiffusionSpectralEntropy
+url_code: https://www.chenliu1996.com/publication/pub_2023_num1_DSE/DSE.pdf
 url_dataset: ''
-url_poster: https://www.chenliu1996.com/publication/pub_2023_num1_icmlw/ICML2023_TAGML_poster56.pdf
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
