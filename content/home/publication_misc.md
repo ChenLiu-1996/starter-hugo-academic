@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 12
 
-title: Technical Blogs
+title: Miscellaneous
 subtitle: ''
 
 content:
@@ -17,7 +17,7 @@ content:
   filters:
     folders:
       - publication
-    tag: 'blog'
+    tag: 'misc'
     category: ''
     # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
     # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

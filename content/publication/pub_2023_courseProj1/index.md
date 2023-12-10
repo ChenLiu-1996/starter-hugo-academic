@@ -1,18 +1,21 @@
 ---
-title: "A Technical Deep Dive into Drag Your GAN (DragGAN)"
+title: "Cell Segmentation Benchmark: Final Report for CPSC 437/537 Introduction to Database Systems"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Danqi Liao
+- Shuangge Wang
 
 # Author notes (optional)
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
-date: "2023-05-30T00:00:00Z"
+date: "2023-12-09T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-01T00:00:00Z"
@@ -24,13 +27,14 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: Technical Blog
-publication_short: Technical Blog
+publication: Course Project Report
+publication_short: Course Project Report
 
-abstract: This is a technical blog post that digs into the technical details of DragGAN (Drag Your GAN - Interactive Point-based Manipulation on the Generative Image Manifold). Specifically, we are explaining its methods section.
+abstract: Our objective is to develop a comprehensive quantitative benchmark designed to impartially assess deep learning techniques using open cell segmentation datasets. Our goal is to establish a standard similar to "CIFAR" or "ImageNet" in the realms of histology and cellular biology. So far, we have examined seven datasets, with a range of 30 to 7,000 images and encompassing between 7,000 to 1.2 million cells. Two of the largest datasets have been integrated into our benchmark. We have evaluated ten deep learning methods, selecting two for their ease of use in inference processes. We plan to further refine and expand this project and will ultimately launch a website to facilitate widespread access and community involvement.
 
 # Summary. An optional shortened abstract.
-summary: This is a technical blog post that digs into the technical details of DragGAN (Drag Your GAN - Interactive Point-based Manipulation on the Generative Image Manifold). Specifically, we are explaining its methods section.
+summary: This is my final project for the course CPSC 437/539 Intro to Database Systems in Fall 2023.
+
 
 tags: ['misc']
 
@@ -40,17 +44,13 @@ featured: false
 # Custom links (uncomment lines below)
 # links:
 # - name: Online PDF
-#   url: https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf
-# - name: IEEE
-#   url: https://ieeexplore.ieee.org/abstract/document/9433808/
-# - name: Arxiv
-#   url: https://arxiv.org/pdf/2104.04672.pdf
+#   url: https://chenliu-1996.github.io/course_projects/CellSegBenchmark/main.pdf
 
-url_pdf: https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf
+url_pdf: https://chenliu-1996.github.io/course_projects/CellSegBenchmark/main.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: https://chenliu-1996.github.io/blogs/ExplainDragGAN/
+url_project: https://chenliu-1996.github.io/course_projects/CellSegBenchmark/
 url_slides: ''
 url_source: ''
 url_video: ''
