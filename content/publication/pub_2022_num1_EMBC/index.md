@@ -112,7 +112,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
         <span style="float:left";
           class="__dimensions_badge_embed__"
-          data-doi="10.48550/arXiv.2001.05548"
+          data-doi="10.1109/EMBC48229.2022.9871026"
           data-hide-zero-citations="false"
           data-legend="always">
         </span>
@@ -121,7 +121,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
           data-link-target="_blank"
           data-badge-details="right"
           data-badge-type="medium-donut"
-          data-doi="10.48550/arXiv.2001.05548"
+          data-doi="10.1109/EMBC48229.2022.9871026"
           data-condensed="true"
           data-hide-no-mentions="false"
           class="altmetric-embed">
@@ -129,7 +129,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
     </div>
     <div id="inner">
       <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.48550/arXiv.2001.055483"
+        <a href="https://plu.mx/plum/a/?doi=10.1109/EMBC48229.2022.98710263"
           data-orientation="horizontal"
           class="plumx-summary"
           data-site="plum"
