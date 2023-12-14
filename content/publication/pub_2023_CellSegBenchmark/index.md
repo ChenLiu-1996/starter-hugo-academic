@@ -1,5 +1,5 @@
 ---
-title: "Cell Segmentation Benchmark: Final Report for CPSC 437/537 Introduction to Database Systems"
+title: "Cell Segmentation Benchmark: Progress Report"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
