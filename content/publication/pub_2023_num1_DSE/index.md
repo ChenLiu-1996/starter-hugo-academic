@@ -51,8 +51,8 @@ links:
 #   url: https://openreview.net/pdf?id=DQW3ilre3Q
 # - name: IEEE
 #   url: https://ieeexplore.ieee.org/abstract/document/9433808/
-# - name: Arxiv
-#   url: https://arxiv.org/pdf/2104.04672.pdf
+- name: Arxiv
+  url: https://arxiv.org/abs/2312.04823
 
 url_pdf: https://arxiv.org/pdf/2312.04823.pdf
 url_code: https://github.com/ChenLiu-1996/DiffusionSpectralEntropy
@@ -95,3 +95,48 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}} -->
 
 <!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+
+<html>
+  <style>
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span style="float:left";
+          class="__dimensions_badge_embed__"
+          data-doi="10.48550/arXiv.2312.04823"
+          data-hide-zero-citations="false"
+          data-legend="always">
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div  style="float:right";
+          data-link-target="_blank"
+          data-badge-details="right"
+          data-badge-type="medium-donut"
+          data-doi="10.48550/arXiv.2312.04823"
+          data-condensed="true"
+          data-hide-no-mentions="false"
+          class="altmetric-embed">
+        </div>
+    </div>
+    <div id="inner">
+      <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
+        <a href="https://plu.mx/plum/a/?doi=10.48550/arXiv.2312.04823"
+          data-orientation="horizontal"
+          class="plumx-summary"
+          data-site="plum"
+          data-hide-when-empty="false">
+        </a>
+    </div>
+  </section>
