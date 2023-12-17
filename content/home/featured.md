@@ -34,4 +34,5 @@ design:
   #   4 = Citation (publication only)
   #   5 = Showcase
   view: 5
+  columns: 2
 ---

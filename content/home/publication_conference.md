@@ -40,8 +40,8 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   #   5 = Showcase
-  view: 3
-  columns: '2'
+  view: 5
+  columns: 1
 ---
 
 {{% callout note %}}
