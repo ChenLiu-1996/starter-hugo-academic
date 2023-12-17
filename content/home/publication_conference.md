@@ -39,7 +39,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  #   5 = Showcase
+  view: 3
   columns: '2'
 ---
 
