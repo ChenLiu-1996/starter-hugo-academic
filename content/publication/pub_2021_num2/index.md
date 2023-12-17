@@ -46,7 +46,7 @@ abstract: Spectral editing studies in mice brains have been limited due to diffi
 
 
 # Summary. An optional shortened abstract.
-summary: A MATLAB-based software toolkit that I re-designed, re-developed and released with my research partner Nanyan and supervisor Dr. Jia Guo based on Dr. Guo's previous work.
+summary: A MATLAB-based software toolkit that we re-designed, re-developed and released extending a previous work.
 
 
 tags: ['abstract']

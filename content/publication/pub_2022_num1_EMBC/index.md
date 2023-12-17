@@ -36,7 +36,7 @@ publication_short: In *IEEE EMBC*
 abstract: The ability to extrapolate gene expression dynamics in living single cells requires robust cell segmentation, and one of the challenges is the amorphous or irregularly shaped cell boundaries. To address this issue, we modified the U-Net architecture to segment cells in fluorescence widefield microscopy images and quantitatively evaluated its performance. We also proposed a novel loss function approach that emphasizes the segmentation accuracy on cell boundaries and encourages shape feature preservation. With a 97% sensitivity, 93% specificity, 91% Jaccard similarity, and 95% Dice coefficient, our proposed method called Residual Attention U-Net with edge-enhancement surpassed the state-of-the-art U-Net in segmentation performance as evaluated by the traditional metrics. More remarkably, the same proposed candidate also performed the best in terms of the preservation of valuable shape features, namely area, eccentricity, major axis length, solidity and orientation. These improvements on shape feature preservation can serve as useful assets for downstream cell tracking and quantification of changes in cell statistics or features over time.
 
 # Summary. An optional shortened abstract.
-summary: We demonstrate the addition of an edge-enhancement approach improved cell segmentation results over the baseline U-Net variant, in both traditional metrics and better preservation of cell shape features.
+summary: The addition of an edge-enhancement approach improved cell segmentation results over the baseline U-Net variant, in both traditional metrics and better preservation of cell shape features.
 
 
 tags: ['conference']

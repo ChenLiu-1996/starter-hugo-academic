@@ -37,7 +37,7 @@ abstract: Current neuroimaging techniques provide paths to investigate the struc
 
 
 # Summary. An optional shortened abstract.
-summary: We demonstrate the potential of deep learning with large-scale structural and synthesized functional MRI to impact Alzheimer's Disease (AD) classification and to identify AD's neuroimaging signatures.
+summary: Synthesized functional MRI can facilitate classification of Alzheimer's Disease (AD) and identification of AD's neuroimaging signatures.
 
 
 tags: ['conference']
