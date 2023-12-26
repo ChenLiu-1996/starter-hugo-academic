@@ -43,8 +43,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Online PDF
-#   url: https://chenliu-1996.github.io/course_projects/CellSegBenchmark/main.pdf
+- name: Alternative PDF
+  url: https://www.chenliu1996.com/publication/pub_2023_cellsegbenchmark/report.pdf
 
 url_pdf: https://chenliu-1996.github.io/course_projects/CellSegBenchmark/main.pdf
 url_code: ''
