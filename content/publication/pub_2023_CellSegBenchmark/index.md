@@ -42,7 +42,7 @@ tags: ['misc']
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
+links:
 - name: Local PDF
   url: https://www.chenliu1996.com/publication/pub_2023_cellsegbenchmark/report.pdf
 
