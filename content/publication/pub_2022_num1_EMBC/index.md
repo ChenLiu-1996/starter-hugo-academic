@@ -49,9 +49,9 @@ links:
 - name: IEEE
   url: https://ieeexplore.ieee.org/document/9871026
 - name: ArXiv
-  url: https://arxiv.org/pdf/2001.05548.pdf
+  url: https://arxiv.org/abs/2001.05548
 
-url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871026'
+url_pdf: 'https://arxiv.org/pdf/2001.05548.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -56,9 +56,9 @@ links:
 - name: IEEE
   url: https://ieeexplore.ieee.org/abstract/document/9098323
 - name: Arxiv
-  url: https://arxiv.org/pdf/2001.05551.pdf
+  url: https://arxiv.org/abs/2001.05551
 
-url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098323'
+url_pdf: 'https://arxiv.org/pdf/2001.05551.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -50,9 +50,9 @@ links:
 - name: IEEE
   url: https://ieeexplore.ieee.org/abstract/document/9433808/
 - name: Arxiv
-  url: https://arxiv.org/pdf/2104.04672.pdf
+  url: https://arxiv.org/abs/2104.04672
 
-url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9433808'
+url_pdf: 'https://arxiv.org/pdf/2104.04672.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
