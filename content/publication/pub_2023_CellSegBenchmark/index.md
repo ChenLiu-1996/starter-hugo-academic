@@ -32,6 +32,8 @@ publication_short: Course Project Report
 
 abstract: Our objective is to develop a comprehensive quantitative benchmark designed to impartially assess deep learning techniques using open cell segmentation datasets. Our goal is to establish a standard similar to "CIFAR" or "ImageNet" in the realms of histology and cellular biology. So far, we have examined seven datasets, with a range of 30 to 7,000 images and encompassing between 7,000 to 1.2 million cells. Two of the largest datasets have been integrated into our benchmark. We have evaluated ten deep learning methods, selecting two for their ease of use in inference processes. We plan to further refine and expand this project and will ultimately launch a website to facilitate widespread access and community involvement.
 
+Please see https://chenliu-1996.github.io/course_projects/CellSegBenchmark/main.pdf for the most updated version.
+
 # Summary. An optional shortened abstract.
 summary: This is my final project for the course CPSC 437/539 Intro to Database Systems in Fall 2023.
 
