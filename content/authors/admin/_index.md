@@ -11,7 +11,7 @@ role: PhD Student in Computer Science
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Krishnaswamy Lab, Yale University
-#   url: https://www.krishnaswamylab.org/
+  url: https://krishnaswamylab.org/members
 
 # Short bio (displayed in user profile at end of posts)
 bio: Researcher in machine learning and healthcare.
@@ -30,6 +30,7 @@ education:
   - course: PhD in CS
     institution: Yale University
     year: 2022 - 2028
+    url: https://cpsc.yale.edu/
   - course: MS  in EE
     institution: Columbia University
     year: 2018 - 2019
