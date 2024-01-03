@@ -30,7 +30,6 @@ education:
   - course: PhD in CS
     institution: Yale University
     year: 2022 - 2028
-    url: https://cpsc.yale.edu/
   - course: MS  in EE
     institution: Columbia University
     year: 2018 - 2019
