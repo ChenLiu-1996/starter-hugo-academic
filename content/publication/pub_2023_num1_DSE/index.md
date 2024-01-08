@@ -47,8 +47,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-# - name: ICML Workshop
-#   url: https://openreview.net/pdf?id=DQW3ilre3Q
+- name: ICML Workshop Version
+  url: https://www.chenliu1996.com/publication/pub_2023_num1_dse/DSE_ICMLW2023.pdf
 # - name: IEEE
 #   url: https://ieeexplore.ieee.org/abstract/document/9433808/
 - name: Arxiv
