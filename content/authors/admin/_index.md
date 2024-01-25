@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:chen.liu.cl2483@yale.edu'
+  link: 'mailto:chen.liu.cl2482@yale.edu'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=3rDjnykAAAAJ&hl=en
