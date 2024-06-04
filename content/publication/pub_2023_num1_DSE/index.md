@@ -47,12 +47,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-# - name: IEEE
-#   url: https://ieeexplore.ieee.org/abstract/document/9433808/
 - name: Arxiv
   url: https://arxiv.org/abs/2312.04823
-- name: ICMLW (earlier version)
-  url: https://www.chenliu1996.com/publication/pub_2023_num1_dse/DSE_ICMLW2023.pdf
+- name: IEEE Information Theory Society
+  url: https://ieeexplore.ieee.org/abstract/document/10480166
 
 url_pdf: https://arxiv.org/pdf/2312.04823.pdf
 url_code: https://github.com/ChenLiu-1996/DiffusionSpectralEntropy
