@@ -1,5 +1,5 @@
 ---
-title: "CUTS: A Framework for Multigranular Unsupervised Medical Image Segmentation"
+title: "CUTS: A Deep Learning and Topological Framework for Multigranular Unsupervised Medical Image Segmentation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -20,7 +20,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2023-02-18T00:00:00Z"
+date: "2024-07-08T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-01T00:00:00Z"
@@ -29,11 +29,11 @@ publishDate: "2022-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ArXiv*
-publication_short: In *ArXiv*
+publication: In International Conference on Medical Image Computing and Computer-Assisted Intervention
+publication_short: In MICCAI 2024
 
 abstract: Segmenting medical images is critical to facilitating both patient diagnoses and quantitative research. A major limiting factor is the lack of labeled data, as obtaining expert annotations for each new set of imaging data or task can be expensive, labor intensive, and inconsistent among annotators. To address this, we present CUTS (Contrastive and Unsupervised Training for multi-granular medical image Segmentation), a fully unsupervised deep learning framework for medical image segmentation to better utilize the vast majority of imaging data that are not labeled or annotated. CUTS works by leveraging a novel two-stage approach. First, it produces an image-specific embedding map via intra-image contrastive loss and a local patch reconstruction objective. Second, these embeddings are partitioned at dynamic levels of granularity that correspond to the data topology. Ultimately, CUTS yields a series of coarse-to-fine-grained segmentations that highlight image features at various scales. We apply CUTS to retinal fundus images and two types of brain MRI images in order to delineate structures and patterns at different scales, providing distinct information relevant for clinicians. When evaluated against predefined anatomical masks at a given granularity, CUTS demonstrates improvements ranging from 10% to 200% on dice coefficient and Hausdorff distance compared to existing unsupervised methods. Further, CUTS shows performance on par with the latest Segment Anything Model which was pre-trained in a supervised fashion on 11 million images and 1.1 billion masks. In summary, with CUTS we demonstrate that medical image segmentation can be effectively solved without relying on large, labeled datasets or vast computational resources.
 
@@ -51,7 +51,7 @@ links:
   url: https://arxiv.org/abs/2209.11359
 
 url_pdf: https://arxiv.org/pdf/2209.11359.pdf
-url_code: https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg
+url_code: https://github.com/ChenLiu-1996/CUTS
 url_dataset: ''
 url_poster: ''
 url_project: ''
