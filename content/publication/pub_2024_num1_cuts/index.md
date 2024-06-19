@@ -40,7 +40,7 @@ abstract: Segmenting medical images is critical to facilitating both patient dia
 # Summary. An optional shortened abstract.
 summary: An unsupervised framework for multiscale medical image segmentation, leveraging intra-image contrastive learning, patch-level reconstruction and diffusion condensation.
 
-tags: []
+tags: ['conference']
 
 # Display this page in the Featured widget?
 featured: false
