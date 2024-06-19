@@ -58,9 +58,9 @@ Journal Reviewer
 Conference Program Committee Member
 
 <ol type="1">
-  <li> <a href="https://nips.cc/">NeurIPS</a> 2021,2022,2023 </li>
-  <li> <a href="https://iclr.cc/">ICLR</a> 2022,2023,2024 </li>
-  <li> <a href="https://icml.cc/">ICML</a> 2022 </li>
+  <li> <a href="https://nips.cc/">NeurIPS</a> 2021-2024 </li>
+  <li> <a href="https://iclr.cc/">ICLR</a> 2022-2024 </li>
+  <li> <a href="https://icml.cc/">ICML</a> 2022,2024 </li>
 </ol>
 
 Teaching Fellow
