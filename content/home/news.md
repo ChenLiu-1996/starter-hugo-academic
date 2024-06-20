@@ -37,6 +37,3 @@ design:
 <br> [Jun 2023] &nbsp;🎉 <a href="https://www.chenliu1996.com/publication/pub_2023_num1_dse/">Our paper</a> has been accepted to **ICML 2023 Workshop on TAG-ML**. Many thanks to collaborators from Mila and Meta AI (FAIR).
 <br> [Aug 2022] &nbsp;🎉 Started my PhD program at <a href="https://www.krishnaswamylab.org/">Krishnaswamy Lab</a>, <a href="https://cpsc.yale.edu/people/PhD-students">Yale University</a>.
 <br> [Jul 2022] &nbsp;🎉 Recognized as an **Outstanding Reviewer at ICML 2022**!
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
