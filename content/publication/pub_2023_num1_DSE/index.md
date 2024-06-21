@@ -40,7 +40,7 @@ abstract: Entropy and mutual information in neural networks provide rich informa
 # Summary. An optional shortened abstract.
 summary: We proposed a framework to measure the entropy and mutual information in high dimensions and is applicable to neural network representations.
 
-tags: ['workshop']
+tags: ['conference']
 
 # Display this page in the Featured widget?
 featured: true
