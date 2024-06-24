@@ -82,9 +82,9 @@ highlight_name: true
 
 Or alternatively, 刘 晨 (family name followed by given name).
 
-I am currently a 3rd-year PhD candidate at Yale University. My research explores both theory and application of machine learning. On the theory side, I focus on helping neural networks learn better representations in the latent space, and one of my most recent work studies the modeling of spatial-temporal dynamics. On the application side, I extend my research to medical imaging and other biomedical data.
+I am currently a 3rd-year PhD candidate at Yale University. My research explores both theory and application of machine learning. On the theory side, I focus on helping neural networks learn better representations in the latent space, and one of my most recent work focus on modeling spatial-temporal dynamics in irregularly-sampled image series. On the application side, I extend my research to medical imaging and other biomedical data.
 
-Prior to pursuing my PhD, I graduated from Columbia University in 2019 with a master degree in Electrical Engineering. In my first industry job, I worked at a startup company named Matic (formerly called Matician) working on computer vision and SLAM. Then I worked as a senior research scientist at GE Healthcare, on deep learning in medical imaging applications.
+Prior to pursuing my PhD, I graduated from Columbia University in 2019 with a master degree in Electrical Engineering. In my first industry job, I worked at a startup company named Matic on computer vision and SLAM. Then I worked as a senior research scientist at GE Healthcare, on deep learning in medical imaging applications.
 
 <br>
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

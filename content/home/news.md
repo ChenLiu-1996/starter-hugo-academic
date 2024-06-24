@@ -34,6 +34,6 @@ design:
   columns: '2'
 ---
 <br> *2024.06* &nbsp;🎉 After 2 years of resubmissions, <a href="https://www.chenliu1996.com/publication/pub_2024_num1_cuts/">CUTS</a> has been accepted to **MICCAI 2024**!
-<br> *2023.06* &nbsp;🎉 <a href="https://www.chenliu1996.com/publication/pub_2023_num1_dse/">Our paper</a> has been accepted to **ICML 2023 Workshop on TAG-ML**. Many thanks to collaborators from Mila and Meta AI (FAIR).
+<br> *2023.06* &nbsp;🎉 <a href="https://www.chenliu1996.com/publication/pub_2023_num1_dse/">Our paper on a novel entropy and mutual information</a> has been accepted to **ICML 2023 Workshop on TAG-ML**. Many thanks to collaborators from Mila and Meta AI (FAIR).
 <br> *2022.08* &nbsp;🎉 Started my PhD program at <a href="https://www.krishnaswamylab.org/">Krishnaswamy Lab</a>, <a href="https://cpsc.yale.edu/people/PhD-students">Yale University</a>.
 <br> *2022.06* &nbsp;🎉 Recognized as an **Outstanding Reviewer at ICML 2022**!
