@@ -25,7 +25,7 @@ author_notes:
 date: "2024-06-10T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-08-01T00:00:00Z"
+publishDate: "2024-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -42,17 +42,17 @@ abstract: The forecasting of disease progression from images is a holy grail for
 # Summary. An optional shortened abstract.
 summary: We predict disease progression trajactories in the image space with position-parameterized neural differential equations in multiscale joint patient representations.
 
-tags: ['workshop']
+tags: ['preprint']
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
 links:
-# - name: Arxiv
-#   url: https://arxiv.org/abs/2312.04823
+- name: Arxiv
+  url: https://arxiv.org/abs/2406.14794
 
-url_pdf:
+url_pdf: https://arxiv.org/pdf/2406.14794
 url_code: https://github.com/ChenLiu-1996/ImageFlowNet
 url_dataset: ''
 url_poster: ''
@@ -113,7 +113,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
         <span style="float:left";
           class="__dimensions_badge_embed__"
-          data-doi="10.48550/arXiv.2312.04823"
+          data-doi="10.48550/arXiv.2406.14794"
           data-hide-zero-citations="false"
           data-legend="always">
         </span>
@@ -122,7 +122,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
           data-link-target="_blank"
           data-badge-details="right"
           data-badge-type="medium-donut"
-          data-doi="10.48550/arXiv.2312.04823"
+          data-doi="10.48550/arXiv.2406.14794"
           data-condensed="true"
           data-hide-no-mentions="false"
           class="altmetric-embed">
@@ -130,7 +130,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
     </div>
     <div id="inner">
       <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.48550/arXiv.2312.04823"
+        <a href="https://plu.mx/plum/a/?doi=10.48550/arXiv.2406.14794"
           data-orientation="horizontal"
           class="plumx-summary"
           data-site="plum"
