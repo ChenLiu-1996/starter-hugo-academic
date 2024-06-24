@@ -6,7 +6,7 @@ title: "ImageFlowNet: Forecasting Multiscale Trajectories of Disease Progression
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Xu Ke
+- Ke Xu
 - Liangbo L. Shen
 - Guillaume Huguet
 - Zilong Wang
