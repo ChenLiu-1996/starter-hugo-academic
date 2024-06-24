@@ -32,8 +32,8 @@ experience:
 
 
   - title: Research Software Engineer
-    company: Matician Inc
-    company_url: 'https://www.matician.com'
+    company: Matic (formerly called Matician when I worked there)
+    company_url: 'https://maticrobots.com/'
     company_logo: org-matician
     location: California
     date_start: '2021-01-04'
@@ -41,7 +41,7 @@ experience:
 
   - title: Research Assistant (Fully funded by Grant)
     company: Columbia University (Medical Center)
-    company_url: 'https://www.columbia.edu'
+    company_url: 'https://www.columbia.edu/'
     company_logo: org-columbia
     location: New York
     date_start: '2019-12-06'
