@@ -1,3 +1,57 @@
-{{ if $item.Params.image }}
-<img src="{{ $item.Params.image }}" alt="{{ $item.Title }}" style="width: 100%; height: auto;">
-{{ end }}
+{{ $item := .item }}
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+    <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+    {{/* Figure Handling */}}
+    {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
+    {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
+    {{ with $resource }}
+    {{ $image := .Fill (printf "808x455 %s" $anchor) }}
+    {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+    <a href="{{ $item.RelPermalink }}">
+        <div class="img-hover-zoom">
+            <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+                class="article-banner" alt="{{ $item.Title }}" loading="lazy">
+        </div>
+    </a>
+    {{ end }}
+
+    {{/* APA Style */}}
+    {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
+
+    <span class="article-metadata li-cite-author">
+        {{ partial "page_metadata_authors" $item }}
+    </span>
+    ({{- $item.Date.Format "2006" -}}).
+    <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
+    {{ if $item.Params.publication_short }}
+    {{- $item.Params.publication_short | markdownify -}}.
+    {{ else if $item.Params.publication }}
+    {{- $item.Params.publication | markdownify -}}.
+    {{ end }}
+    <p>{{ partial "page_links" (dict "page" $item "is_list" 1) }}</p>
+
+    {{/* MLA Style */}}
+    {{ else }}
+
+    <span class="article-metadata li-cite-author">
+        {{ partial "page_metadata_authors" $item }}.
+    </span>
+    <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
+    {{ if $item.Params.publication_short }}
+    {{- $item.Params.publication_short | markdownify -}},
+    {{ else if $item.Params.publication }}
+    {{- $item.Params.publication | markdownify -}},
+    {{ end }}
+    {{- $item.Date.Format "2006" -}}.
+
+    {{ if $has_attachments }}
+    <div class="btn-links">
+        {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+    </div>
+    {{ end }}
+
+    {{ end }}
+</div>
