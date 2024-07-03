@@ -41,7 +41,7 @@ design:
   #   4 = Citation (publication only)
   #   5 = Showcase
   view: chen_publication
-  columns: '2'
+  columns: '1'
 ---
 
 {{% callout note %}}

@@ -34,6 +34,7 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 publication: In *International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*
 publication_short: In *MICCAI 2024*
+publication_overlay: MICCAI 2024
 
 abstract: Segmenting medical images is critical to facilitating both patient diagnoses and quantitative research. A major limiting factor is the lack of labeled data, as obtaining expert annotations for each new set of imaging data and task can be labor intensive and inconsistent among annotators. We present CUTS, an unsupervised deep learning framework for medical image segmentation. CUTS operates in two stages. For each image, it produces an embedding map via intra-image contrastive learning and local patch reconstruction. Then, these embeddings are partitioned at dynamic granularity levels that correspond to the data topology. CUTS yields a series of coarse-to-fine-grained segmentations that highlight features at various granularities. We applied CUTS to retinal fundus images and two types of brain MRI images to delineate structures and patterns at different scales. When evaluated against predefined anatomical masks, CUTS improved the dice coefficient and Hausdorff distance by at least 10% compared to existing unsupervised methods. Further, CUTS shows performance on par with the Segment Anything Model which was pre-trained on 11 million images and 1.1 billion masks.
 
