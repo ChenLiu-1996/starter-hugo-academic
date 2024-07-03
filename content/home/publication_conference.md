@@ -40,7 +40,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   #   5 = Showcase
-  view: masonry
+  view: publication
   columns: '2'
 ---
 
