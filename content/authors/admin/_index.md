@@ -18,6 +18,7 @@ bio: Researcher in machine learning and healthcare.
 
 # Interests to show in About widget
 interests:
+- Spatial-Temporal Modeling
 - Manifold Learning
 - Machine Learning in Healthcare
 - Computer Vision
@@ -27,18 +28,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in CS
+  - course: PhD, Computer Science
     institution: Yale University
-    year: 2022 - 2028
-  - course: MS  in EE
+    year: 2022 ~ 2027
+  - course: MS, Electrical Engineering
     institution: Columbia University
-    year: 2018 - 2019
-  - course: BS  in EE
+    year: 2018 ~ 2019
+  - course: BS, Electrical Engineering
     institution: Bucknell University
-    year: 2014 - 2018
+    year: 2014 ~ 2018
   - course: Middle & High School
     institution: Shanghai Foreign Language School
-    year: 2007 - 2014
+    year: 2007 ~ 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -78,13 +79,19 @@ social:
 highlight_name: true
 ---
 
-<br> Hi, my name is Chen Liu.
+<br>
 
-Or alternatively, 刘 晨 (family name followed by given name).
+<p style="font-size: 24px">
+Hi, my name is Chen Liu (刘晨).
+</p>
 
+<p style="font-size: 16px">
 I am currently a 3rd-year PhD candidate at Yale University. My research explores both theory and application of machine learning. On the theory side, I focus on helping neural networks learn better representations in the latent space, and one of my most recent work focus on modeling spatial-temporal dynamics in irregularly-sampled image series. On the application side, I extend my research to medical imaging and other biomedical data.
+</p>
 
+<p style="font-size: 16px">
 Prior to pursuing my PhD, I graduated from Columbia University in 2019 with a master degree in Electrical Engineering. In my first industry job, I worked at a startup company named Matic on computer vision and SLAM. Then I worked as a senior research scientist at GE Healthcare, on deep learning in medical imaging applications.
+</p>
 
 <br>
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
