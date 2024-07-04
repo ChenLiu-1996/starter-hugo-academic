@@ -32,7 +32,7 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Machine Learning Workshop*, and *IEEE Conference on Information Science and Systems*
+publication: In *International Conference on Machine Learning Workshop (ICMLW)*, and *IEEE Conference on Information Science and Systems (CISS)*
 publication_short: In *ICML 2023 Workshop* and *CISS 2024*
 publication_overlay: ICMLW 2023
 
