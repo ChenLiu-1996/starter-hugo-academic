@@ -29,7 +29,7 @@
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
 <div class="pub-list-item view-chen-publication" style="display: flex; align-items: center; margin-bottom: 1rem;">
-    <div class="col" style="flex: 0 0 45%">
+    <div class="col" style="flex: 0 0 40%">
         {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
         {{ with $resource }}
         {{ $image := .Resize "1000x webp"}}
@@ -40,7 +40,7 @@
         {{end}}
     </div>
 
-    <div class="col" style="flex: 0 0 55%; margin-left: 1rem; font-size: 20px">
+    <div class="col" style="flex: 0 0 60%; font-size: 20px">
 
         {{ with $summary }}
         <div class="article-style">

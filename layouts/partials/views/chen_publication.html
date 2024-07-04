@@ -19,7 +19,7 @@
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
 <div class="pub-list-item view-chen-publication" style="display: flex; align-items: center; margin-bottom: 1rem;">
-    <div class="col-12 col-md-2">
+    <div class="col" style="flex: 0 0 20%">
         {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
         {{ with $resource }}
         {{ $image := .Resize "1000x webp"}}
@@ -39,7 +39,7 @@
         {{end}}
     </div>
 
-    <div style="display: block; margin-left: 1rem; font-size: 18px">
+    <div class="col" style="flex: 0 0 80%; font-size: 18px">
 
         {{/* APA Style */}}
         {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
