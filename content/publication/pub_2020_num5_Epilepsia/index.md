@@ -36,6 +36,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: In *Epilepsia*
 publication_short: In *Epilepsia*
+publication_impact_factor: 6.0 (2020)
 
 abstract: Following surgery, focal seizures relapse in 20% to 50% of cases due to the difficulty of delimiting the epileptogenic zone (EZ) by current imaging or electrophysiological techniques. Here, we evaluate an unbiased metabolomics approach based on ex vivo and in vivo nuclear magnetic resonance spectroscopy (MRS) methods to discriminate the EZ in a mouse model of mesiotemporal lobe epilepsy (MTLE).
 

@@ -35,6 +35,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: In *Frontiers in Behavioral Neuroscience*
 publication_short: In *Frontiers in Behavioral Neuroscience*
+publication_impact_factor: 3.6 (2021)
 
 abstract: The current pilot study was designed to examine the association between hippocampal γ-aminobutyric acid (GABA+) concentration and episodic memory in older individuals, as well as the impact of two major risk factors for Alzheimer's disease — female sex and Apolipoprotein ε4 (ApoE ε4) genotype — on this relationship.
 

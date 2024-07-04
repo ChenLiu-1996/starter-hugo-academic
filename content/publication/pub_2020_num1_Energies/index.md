@@ -29,6 +29,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: In *Energies*
 publication_short: In *Energies*
+publication_impact_factor: 3.0 (2020)
 
 abstract: Global warming, which largely results from excessive carbon emission, has become an increasingly heated international issue due to its ever-detereorating trend and the profound consequences. Plants sequester a large amount of atmospheric CO2 via photosynthesis, thus greatly mediating global warming. In this study, we aim to model the temporal dynamics of photosynthesis for two different vegetation types to further understand the controlling factors of photosynthesis machinery. We experimented with a feedforward neural network that does not utilize past histories, as well as two networks that integrate past and present information, long short-term memory and transformer. Our results showed that one single climate driver, shortwave radiation, carries the most information with respect to prediction of upcoming photosynthetic activities. We also demonstrated that photosynthesis and its interactions with climate drivers, such as temperature, precipitation, radiation, and vapor pressure deficit, has an internal system memory of about two weeks. Thus, the predictive model could be best trained with historical data over the past two weeks and could best predict temporal evolution of photosynthesis two weeks into the future.
 
