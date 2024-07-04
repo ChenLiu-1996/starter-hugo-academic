@@ -22,7 +22,7 @@
     <div class="col-12 col-md-2">
         {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
         {{ with $resource }}
-        {{ $image := .Resize "300x webp"}}
+        {{ $image := .Resize "1000x webp"}}
         <a href="{{$link}}" {{ $target | safeHTMLAttr }}
             style="display: block; width: 100%; height: 100%; position: relative;">
             <img src="{{ $image.RelPermalink }}" style="width: 100%; height: 100%; object-fit: cover;"
