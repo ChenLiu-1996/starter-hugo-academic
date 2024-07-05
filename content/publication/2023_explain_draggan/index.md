@@ -46,11 +46,11 @@ featured: false
 # - name: Arxiv
 #   url: https://arxiv.org/pdf/2104.04672.pdf
 
-url_pdf: https://chenliu1996.com/publication/pub_2023_explain_draggan/main.pdf
+url_pdf: https://chenliu1996.com/publication/2023_explain_draggan/main.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: https://chenliu-1996.github.io/blogs/ExplainDragGAN/
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
