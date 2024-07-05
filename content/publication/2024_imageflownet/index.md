@@ -51,7 +51,7 @@ featured: true
 links:
 - name: Arxiv
   url: https://arxiv.org/abs/2406.14794
-- name: Appendix
+- name: Supplementary PDF
   url: https://chenliu1996.com/publication/2024_imageflownet/supp.pdf
 
 url_pdf: https://arxiv.org/pdf/2406.14794
