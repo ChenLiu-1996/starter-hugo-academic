@@ -46,11 +46,11 @@ featured: false
 # - name: Local PDF
 #   url: https://www.chenliu1996.com/publication/pub_2023_cellsegbenchmark/main.pdf
 
-url_pdf: https://chenliu1996.com/publication/2023_cellseg_benchmark/main.pdf
+url_pdf: https://www.chenliu1996.com/publication/2023_cellseg_benchmark/main.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: https://chenliu-1996.github.io/projects/CellSegBenchmark/
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
