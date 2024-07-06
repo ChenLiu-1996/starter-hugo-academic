@@ -114,7 +114,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
         <span style="float:left";
           class="__dimensions_badge_embed__"
-          data-doi="10.48550/arXiv.2312.04823"
+          data-doi="10.1109/CISS59072.2024.10480166"
           data-hide-zero-citations="false"
           data-legend="always">
         </span>
@@ -123,7 +123,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
           data-link-target="_blank"
           data-badge-details="right"
           data-badge-type="medium-donut"
-          data-doi="10.48550/arXiv.2312.04823"
+          data-doi="10.1109/CISS59072.2024.10480166"
           data-condensed="true"
           data-hide-no-mentions="false"
           class="altmetric-embed">
@@ -131,7 +131,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
     </div>
     <div id="inner">
       <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.48550/arXiv.2312.04823"
+        <a href="https://plu.mx/plum/a/?doi=10.1109/CISS59072.2024.10480166"
           data-orientation="horizontal"
           class="plumx-summary"
           data-site="plum"
