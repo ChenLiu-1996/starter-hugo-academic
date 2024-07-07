@@ -1,151 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-<url>
-  <loc>https://www.chenliu1996.com/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2024_imageflownet/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2024_imageflownet/supp.pdf</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2023_diffusion_spectral_entropy/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2024_cuts/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2022_cellseg_edge_enhancement/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2021_deepcontrast_adscore/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2020_deepcontrast_mousecbv/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2022_deepcontrast/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2021_gaba_memory/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2021_gaba_epilepsy/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2022_climate_photosynthesis/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2021_ismrm_deepcontrast_adscore/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2021_ismrm_dl_bet/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2021_ismrm_gaba_epilepsy/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2021_ismrm_jet/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2021_ismrm_deepcontrast_lesion/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2020_ismrm_deepcontrast_mousecbv/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2020_ismrm_deepcontrast_humancbv/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2022_afl/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2023_cellseg_benchmark/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2023_cellseg_benchmark/main.pdf</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2023_explain_draggan/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/publication/2023_explain_draggan/main.pdf</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/tag/preprint/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/tag/conference/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/tag/abstract/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-<url>
-  <loc>https://www.chenliu1996.com/tag/misc/</loc>
-  <lastmod>2024-07-06T18:08:55+00:00</lastmod>
-  <priority>0.30</priority>
-</url>
-
-
+    <url>
+        <loc>https://www.chenliu1996.com/</loc>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2024_imageflownet/</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2024_imageflownet/supp.pdf</loc>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2023_diffusion_spectral_entropy/</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2024_cuts/</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2022_cellseg_edge_enhancement/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2021_deepcontrast_adscore/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2020_deepcontrast_mousecbv/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2022_deepcontrast/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2021_gaba_memory/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2021_gaba_epilepsy/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2022_climate_photosynthesis/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2021_ismrm_deepcontrast_adscore/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2021_ismrm_dl_bet/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2021_ismrm_gaba_epilepsy/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2021_ismrm_jet/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2021_ismrm_deepcontrast_lesion/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2020_ismrm_deepcontrast_mousecbv/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2020_ismrm_deepcontrast_humancbv/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2022_afl/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2023_cellseg_benchmark/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2023_cellseg_benchmark/main.pdf</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2023_explain_draggan/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2023_explain_draggan/main.pdf</loc>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/tag/preprint/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/tag/conference/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/tag/abstract/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/tag/misc/</loc>
+        <priority>0.30</priority>
+    </url>
 </urlset>
