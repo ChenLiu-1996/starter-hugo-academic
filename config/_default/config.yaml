@@ -69,3 +69,4 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+  filename: auto_sitemap.xml
