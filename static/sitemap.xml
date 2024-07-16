@@ -9,6 +9,10 @@
         <priority>0.80</priority>
     </url>
     <url>
+        <loc>https://www.chenliu1996.com/publication/2024_imageflownet/main.pdf</loc>
+        <priority>1.00</priority>
+    </url>
+    <url>
         <loc>https://www.chenliu1996.com/publication/2024_imageflownet/supp.pdf</loc>
         <priority>1.00</priority>
     </url>
