@@ -97,6 +97,14 @@
         <priority>0.80</priority>
     </url>
     <url>
+        <loc>https://www.chenliu1996.com/publication/2024_explain_dse_dsmi/</loc>
+        <priority>0.30</priority>
+    </url>
+    <url>
+        <loc>https://www.chenliu1996.com/publication/2024_explain_dse_dsmi/main.pdf</loc>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>https://www.chenliu1996.com/publication/2023_explain_draggan/</loc>
         <priority>0.30</priority>
     </url>
