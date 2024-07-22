@@ -52,6 +52,8 @@ links:
   url: https://arxiv.org/abs/2312.04823
 - name: IEEE Information Theory Society
   url: https://ieeexplore.ieee.org/abstract/document/10480166
+- name: Blog
+  url: https://www.chenliu1996.com/publication/2024_explain_dse_dsmi/main.pdf
 
 url_pdf: https://arxiv.org/pdf/2312.04823.pdf
 url_code: https://github.com/ChenLiu-1996/DiffusionSpectralEntropy
