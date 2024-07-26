@@ -44,7 +44,8 @@ featured: false
 # - name: Arxiv
 #   url: https://arxiv.org/pdf/2104.04672.pdf
 
-url_pdf: https://www.chenliu1996.com/publication/2024_explain_dse_dsmi/main.pdf
+# url_pdf: https://www.chenliu1996.com/publication/2024_explain_dse_dsmi/main.pdf
+url_pdf: https://chenliu-1996.github.io/blogs/Explain_DSE_DSMI/main.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
