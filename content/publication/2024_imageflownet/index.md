@@ -51,10 +51,10 @@ featured: true
 links:
 - name: Arxiv
   url: https://arxiv.org/abs/2406.14794
-- name: Supplementary PDF
-  url: https://www.chenliu1996.com/publication/2024_imageflownet/supp.pdf
-- name: Local PDF
-  url: https://www.chenliu1996.com/publication/2024_imageflownet/main.pdf
+# - name: Supplementary PDF
+#   url: https://www.chenliu1996.com/publication/2024_imageflownet/supp.pdf
+# - name: Local PDF
+#   url: https://www.chenliu1996.com/publication/2024_imageflownet/main.pdf
 
 url_pdf: https://arxiv.org/pdf/2406.14794
 url_code: https://github.com/ChenLiu-1996/ImageFlowNet
