@@ -20,6 +20,7 @@ bio: Researcher in machine learning and healthcare.
 interests:
 - Spatial-Temporal Modeling
 - Manifold Learning
+- Unsupervised Learning
 - Machine Learning in Healthcare
 - Computer Vision
 - Medical Imaging
