@@ -83,12 +83,12 @@ highlight_name: true
 <br>
 
 <p style="font-size: 24px">
-Hi, my name is Chen Liu (刘晨). My email is: chen DOT liu DOT cl2482 AT yale DOT edu.
+Hi, my name is Chen Liu (刘晨).
 </p>
-
+Email: chen DOT liu DOT cl2482 AT yale DOT edu.
 
 <p style="font-size: 20px">
-Open to research internship (Summer 2025). Please let me know if you have opportunities in spatial-temporal modeling, vision models, neuron-inspired neural networks, AI in healthcare, or related fields.
+Open to research internship (Summer 2025). Please let me know if you have opportunities in spatial-temporal modeling, vision models, AI in healthcare, or related fields.
 </p>
 
 <p style="font-size: 16px">
