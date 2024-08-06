@@ -82,7 +82,7 @@ highlight_name: true
 <br>
 
 <p style="font-size: 24px">
-Hi, my name is Chen Liu (刘晨).
+Hi, my name is Chen Liu (刘晨). My email is: chen DOT liu DOT cl2482 AT yale DOT edu.
 </p>
 
 
