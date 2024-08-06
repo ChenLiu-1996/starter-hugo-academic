@@ -83,8 +83,10 @@ highlight_name: true
 
 <p style="font-size: 24px">
 Hi, my name is Chen Liu (刘晨).
+</p>
 
-<br>
+
+<p style="font-size: 20px">
 I am actively looking for research internship in Summer 2025. Please let me know if you have opportunities in spatial-temporal modeling, vision models, neuron-inspired neural networks, AI in healthcare, or related fields.
 </p>
 
