@@ -41,7 +41,7 @@ summary: 'We transformed label-efficient annotation into the combination of arch
 tags: ['preprint']
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 #links:
