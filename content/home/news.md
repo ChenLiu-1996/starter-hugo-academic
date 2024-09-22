@@ -34,7 +34,7 @@ design:
   columns: '2'
 ---
 <br> **2024.07** &nbsp;🎉 I wrote a tool to generate your [**Google Scholar Citation World Map**](https://github.com/ChenLiu-1996/CitationMap)!
-<br> **2024.06** &nbsp;🎉 After 2 years of revisions, <a href="https://www.chenliu1996.com/publication/2024_cuts/">CUTS</a> has been accepted to **MICCAI 2024**!
+<br> **2024.06** &nbsp;🎉 My first PhD project, <a href="https://www.chenliu1996.com/publication/2024_cuts/">CUTS</a> has been accepted to **MICCAI 2024**!
 <br> **2024.01** &nbsp;🎉 <a href="https://www.chenliu1996.com/publication/2023_diffusion_spectral_entropy/">Our DSE paper on entropy and MI for deep neural networks</a> has been accepted to an **ICML 2023 Workshop** and an IEEE Information Theory conference (CISS)! Read this [blog](https://www.chenliu1996.com/publication/2024_explain_dse_dsmi/main.pdf) for an explanation.
 <br> **2022.08** &nbsp;🎉 Started my PhD program at <a href="https://www.krishnaswamylab.org/">Krishnaswamy Lab</a>, <a href="https://cpsc.yale.edu/people/PhD-students">Yale University</a>.
 <br> **2022.06** &nbsp;🎉 Recognized as an <a href="https://icml.cc/Conferences/2022/Reviewers">**Outstanding Reviewer at ICML 2022**</a>!
