@@ -1,28 +1,24 @@
 ---
-title: "ImageFlowNet: Forecasting Multiscale Image-Level Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images"
+title: "DiffKillR: Killing and Recreating Diffeomorphisms for Cell Annotation in Dense Microscopy Images"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Ke Xu
-- Liangbo L. Shen
-- Guillaume Huguet
-- Zilong Wang
-- Alexander Tong
-- Danilo Bzdok
-- Jay Stewart
-- Jay C. Wang
-- Lucian V. Del Priore
+- Danqi Liao
+- Alejandro Parada-Mayorga
+- Alejandro Ribeiro
+- Marcello DiStasio
 - Smita Krishnaswamy
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+- "Equal contribution"
 
-date: "2024-06-10T00:00:00Z"
+date: "2024-09-10T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-06-01T00:00:00Z"
@@ -37,10 +33,10 @@ publication_types: ["3"]
 publication: In *ArXiv*
 publication_short: In *ArXiv*
 
-abstract: Advances in medical imaging technologies have enabled the collection of longitudinal images, which involve repeated scanning of the same patients over time, to monitor disease progression. However, predictive modeling of such data remains challenging due to high dimensionality, irregular sampling, and data sparsity. To address these issues, we propose ImageFlowNet, a novel model designed to forecast disease trajectories from initial images while preserving spatial details. ImageFlowNet first learns multiscale joint representation spaces across patients and time points, then optimizes deterministic or stochastic flow fields within these spaces using a position-parameterized neural ODE/SDE framework. The model leverages a UNet architecture to create robust multiscale representations and mitigates data scarcity by combining knowledge from all patients. We provide theoretical insights that support our formulation of ODEs, and motivate our regularizations involving high-level visual features, latent space organization, and trajectory smoothness. We validate ImageFlowNet on three longitudinal medical image datasets depicting progression in geographic atrophy, multiple sclerosis, and glioblastoma, demonstrating its ability to effectively forecast disease progression and outperform existing methods. Our contributions include the development of ImageFlowNet, its theoretical underpinnings, and empirical validation on real-world datasets.
+abstract: The proliferation of digital microscopy images, driven by advances in automated whole slide scanning, presents significant opportunities for biomedical research and clinical diagnostics. However, accurately annotating densely packed information in these images remains a major challenge. To address this, we introduce DiffKillR, a novel framework that reframes cell annotation as the combination of archetype matching and image registration tasks. DiffKillR employs two complementary neural networks: one that learns a diffeomorphism-invariant feature space for robust cell matching and another that computes the precise warping field between cells for annotation mapping. Using a small set of annotated archetypes, DiffKillR efficiently propagates annotations across large microscopy images, reducing the need for extensive manual labeling. More importantly, it is suitable for any type of pixel-level annotation. We will discuss the theoretical properties of DiffKillR and validate it on three microscopy tasks, demonstrating its advantages over existing supervised, semi-supervised, and unsupervised methods.
 
 # Summary. An optional shortened abstract.
-summary: _(Spatial-Temporal Modeling)_ We predict disease progression trajactories in the image space with position-parameterized neural differential equations in multiscale joint patient representations.
+summary: We transformed label-efficient annotation into the combination of archetype matching and image registration tasks. We proposed two complementary networks: one invariant and the other sensitive to diffeomorphisms.
 
 tags: ['preprint']
 
@@ -50,14 +46,10 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Arxiv
-  url: https://arxiv.org/abs/2406.14794
-# - name: Supplementary PDF
-#   url: https://www.chenliu1996.com/publication/2024_imageflownet/supp.pdf
-# - name: Local PDF
-#   url: https://www.chenliu1996.com/publication/2024_imageflownet/main.pdf
+  url: https://arxiv.org/abs/???
 
-url_pdf: https://arxiv.org/pdf/2406.14794
-url_code: https://github.com/ChenLiu-1996/ImageFlowNet
+url_pdf: #https://arxiv.org/pdf/2406.14794
+url_code: https://github.com/ChenLiu-1996/DiffKillR
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -117,7 +109,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
         <span style="float:left";
           class="__dimensions_badge_embed__"
-          data-doi="10.48550/arXiv.2406.14794"
+          data-doi="10.48550/arXiv.2406.???"
           data-hide-zero-citations="false"
           data-legend="always">
         </span>
@@ -126,7 +118,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
           data-link-target="_blank"
           data-badge-details="right"
           data-badge-type="medium-donut"
-          data-doi="10.48550/arXiv.2406.14794"
+          data-doi="10.48550/arXiv.2406.???"
           data-condensed="true"
           data-hide-no-mentions="false"
           class="altmetric-embed">
@@ -134,7 +126,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
     </div>
     <div id="inner">
       <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.48550/arXiv.2406.14794"
+        <a href="https://plu.mx/plum/a/?doi=10.48550/arXiv.2406.???"
           data-orientation="horizontal"
           class="plumx-summary"
           data-site="plum"
