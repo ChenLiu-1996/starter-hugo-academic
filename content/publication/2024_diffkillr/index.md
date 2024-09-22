@@ -48,7 +48,7 @@ featured: true
 #- name: Arxiv
 #  url: https://arxiv.org/abs/???
 
-url_pdf: '' #https://arxiv.org/pdf/2406.14794
+url_pdf: ''
 url_code: https://github.com/ChenLiu-1996/DiffKillR
 url_dataset: ''
 url_poster: ''
