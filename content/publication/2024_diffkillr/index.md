@@ -44,11 +44,11 @@ tags: ['preprint']
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: Arxiv
-  url: https://arxiv.org/abs/???
+#links:
+#- name: Arxiv
+#  url: https://arxiv.org/abs/???
 
-url_pdf: #https://arxiv.org/pdf/2406.14794
+url_pdf: '' #https://arxiv.org/pdf/2406.14794
 url_code: https://github.com/ChenLiu-1996/DiffKillR
 url_dataset: ''
 url_poster: ''
@@ -90,6 +90,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 
 <!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
 
+<!--
 <html>
   <style>
     section {
@@ -133,4 +134,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
           data-hide-when-empty="false">
         </a>
     </div>
-  </section>
+  </section> -->
