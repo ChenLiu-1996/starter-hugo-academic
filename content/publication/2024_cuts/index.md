@@ -54,7 +54,7 @@ links:
 url_pdf: https://arxiv.org/pdf/2209.11359.pdf
 url_code: https://github.com/ChenLiu-1996/CUTS
 url_dataset: ''
-url_poster: ''
+url_poster: https://www.chenliu1996.com/publication/2024_cuts/CUTS_MICCAI2024_poster.pdf
 url_project: ''
 url_slides: ''
 url_source: ''
