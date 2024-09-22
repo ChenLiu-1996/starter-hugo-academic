@@ -18,8 +18,9 @@
 
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
-<div class="pub-list-item view-chen-publication" style="display: flex; align-items: center; margin-bottom: 1rem;">
-    <div class="col" style="flex: 0 0 20%">
+<div class="pub-list-item view-chen-publication"
+    style="display: flex; align-items: center; margin-bottom: 1rem; flex-wrap: wrap;">
+    <div class="col pub-image" style="flex: 0 0 20%; max-width: 200px;">
         {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
         {{ with $resource }}
         {{ $image := .Resize "1000x webp"}}
@@ -52,7 +53,7 @@
         {{end}}
     </div>
 
-    <div class="col" style="flex: 0 0 80%; font-size: 15px">
+    <div class="col pub-text" style="flex: 0 0 80%; font-size: 15px">
 
         {{/* APA Style */}}
         {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
@@ -95,3 +96,25 @@
         {{ end }}
     </div>
 </div>
+
+<style>
+    /* Responsive Design */
+    @media (max-width: 768px) {
+        .pub-list-item {
+            flex-direction: column;
+            align-items: flex-start;
+        }
+
+        .pub-image {
+            flex: 0 0 100%;
+            max-width: 100%;
+            margin-bottom: 1rem;
+        }
+
+        .pub-text {
+            flex: 0 0 100%;
+            font-size: 14px;
+            /* Reduce font size slightly on smaller screens */
+        }
+    }
+</style>
