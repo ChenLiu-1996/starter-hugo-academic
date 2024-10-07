@@ -50,7 +50,7 @@ featured: true
 links:
 - name: Arxiv
   url: https://arxiv.org/abs/2312.04823
-- name: IEEE Information Theory Society
+- name: IEEE
   url: https://ieeexplore.ieee.org/abstract/document/10480166
 - name: Blog
   url: https://chenliu-1996.github.io/blogs/Explain_DSE_DSMI/main.pdf
