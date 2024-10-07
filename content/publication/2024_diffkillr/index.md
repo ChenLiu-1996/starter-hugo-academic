@@ -44,9 +44,9 @@ tags: ['preprint']
 featured: false
 
 # Custom links (uncomment lines below)
-#links:
+links:
 - name: Arxiv
- url: https://arxiv.org/abs/2410.03058
+  url: https://arxiv.org/abs/2410.03058
 
 url_pdf: 'https://arxiv.org/pdf/2410.03058'
 url_code: https://github.com/ChenLiu-1996/DiffKillR
